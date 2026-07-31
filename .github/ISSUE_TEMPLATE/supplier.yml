@@ -1,0 +1,49 @@
+name: Supplier correction or removal
+description: Request a correction to, or removal of, supplier information
+title: "Supplier data: "
+labels:
+  - supplier-data
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this public form if you represent a listed supplier or can identify an incorrect public source. Do not include private customer, employee, account, or payment information.
+  - type: input
+    id: supplier
+    attributes:
+      label: Supplier or business
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Correct public source URL
+      placeholder: https://example.com/prices
+    validations:
+      required: true
+  - type: dropdown
+    id: request
+    attributes:
+      label: Request
+      options:
+        - Correct a price or tariff source
+        - Correct business/contact information
+        - Remove a listing or field
+        - Confirm publication permission or conditions
+        - Other rights question
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details and authority
+      description: Explain the correction and, if acting for the supplier, your role. Keep sensitive evidence out of this public form.
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I have removed private customer, account, employee, and payment information.
+          required: true
