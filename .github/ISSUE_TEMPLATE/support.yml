@@ -1,0 +1,52 @@
+name: Whittle support
+description: Report a problem with the Whittle iPhone app
+title: "Support: "
+labels:
+  - support
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Whittle. This form is public. Do not include a full address, meter number, bill, payment information, or other sensitive household data.
+  - type: input
+    id: app-version
+    attributes:
+      label: Whittle version
+      description: Find this in iOS Settings → General → iPhone Storage → Whittle.
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: ios-version
+    attributes:
+      label: iOS version
+      placeholder: "26.5"
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Home
+        - Heating oil
+        - Electricity
+        - Alerts
+        - Settings or privacy
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include the exact wording of any error and what you expected instead.
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I have removed private household and payment information from this public report.
+          required: true

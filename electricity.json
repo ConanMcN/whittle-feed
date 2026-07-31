@@ -1,0 +1,3193 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-31T10:22:11Z",
+  "benchmarkKWh": 3200,
+  "vatRate": 0.05,
+  "suppliers": [
+    {
+      "slug": "power-ni",
+      "name": "Power NI",
+      "phone": "0800 0285 455",
+      "switchURL": "https://powerni.co.uk/",
+      "regulated": true,
+      "note": "Eco Energy, Power NI's 100% renewable tariff, is priced identically to Bill Pay."
+    },
+    {
+      "slug": "sse-airtricity",
+      "name": "SSE Airtricity",
+      "phone": "0345 601 9093",
+      "switchURL": "https://www.sseairtricity.com/uk/home/",
+      "regulated": false,
+      "note": null
+    },
+    {
+      "slug": "budget-energy",
+      "name": "Budget Energy",
+      "phone": "0800 012 1177",
+      "switchURL": "https://www.budgetenergy.co.uk/",
+      "regulated": false,
+      "note": null
+    },
+    {
+      "slug": "click-energy",
+      "name": "Click Energy",
+      "phone": "0800 1 070732",
+      "switchURL": "https://www.clickenergyni.com/",
+      "regulated": false,
+      "note": "Click publishes its rates only as images, on a path its own robots.txt asks crawlers not to read. Hearth does not fetch them, so these tariffs are listed but not priced. Call them for a quote."
+    },
+    {
+      "slug": "share-energy",
+      "name": "Share Energy",
+      "phone": "0808 304 9870",
+      "switchURL": "https://share-energy.com/",
+      "regulated": false,
+      "note": "Share Energy publishes no rates publicly — they are quoted inside the sign-up flow. Listed but not priced."
+    }
+  ],
+  "tariffs": [
+    {
+      "id": "budget-energy/billpay-100-loyalty-18",
+      "supplier": "budget-energy",
+      "name": "Bill Pay £100 Loyalty & 18% Discount",
+      "meter": "24hr",
+      "payment": "any",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 31.461
+      },
+      "standingCharge": 14.553,
+      "bandWindows": null,
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "Budget Energy standard variable"
+      },
+      "availability": "both",
+      "incentives": [
+        {
+          "kind": "welcome-credit",
+          "amount": 100.0,
+          "label": "£100 loyalty credit"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2025-08-25",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
+    },
+    {
+      "id": "budget-energy/billpay-25",
+      "supplier": "budget-energy",
+      "name": "Bill Pay 25% Discount",
+      "meter": "24hr",
+      "payment": "direct-debit",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 28.775
+      },
+      "standingCharge": 12.075,
+      "bandWindows": null,
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "Budget Energy standard variable"
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2025-08-25",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
+    },
+    {
+      "id": "budget-energy/billpay-29",
+      "supplier": "budget-energy",
+      "name": "Bill Pay 29% Discount",
+      "meter": "24hr",
+      "payment": "any",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 27.24
+      },
+      "standingCharge": 14.55,
+      "bandWindows": null,
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "Budget Energy standard variable"
+      },
+      "availability": "new",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2025-08-25",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
+    },
+    {
+      "id": "budget-energy/billpay-ev-16",
+      "supplier": "budget-energy",
+      "name": "Bill Pay EV 16% Discount",
+      "meter": "ev-nightshift",
+      "payment": "direct-debit",
+      "billing": "ebill",
+      "rates": {
+        "day": 36.047,
+        "night": 15.237
+      },
+      "standingCharge": 24.035,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "Budget Energy standard variable"
+      },
+      "availability": "existing",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-02-18",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
+    },
+    {
+      "id": "budget-energy/keypad-60-loyalty-16",
+      "supplier": "budget-energy",
+      "name": "Keypad £60 Loyalty & 16% Discount",
+      "meter": "24hr",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {
+        "anytime": 31.582
+      },
+      "standingCharge": 18.233,
+      "bandWindows": null,
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "Budget Energy standard variable"
+      },
+      "availability": "both",
+      "incentives": [
+        {
+          "kind": "welcome-credit",
+          "amount": 60.0,
+          "label": "£60 loyalty credit"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2025-08-25",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
+    },
+    {
+      "id": "budget-energy/keypad-80-credit-20",
+      "supplier": "budget-energy",
+      "name": "Keypad 20% Discount & £80 Credit",
+      "meter": "24hr",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {
+        "anytime": 30.08
+      },
+      "standingCharge": 9.98,
+      "bandWindows": null,
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "Budget Energy standard variable"
+      },
+      "availability": "new",
+      "incentives": [
+        {
+          "kind": "welcome-credit",
+          "amount": 80.0,
+          "label": "£80 credit"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2025-08-25",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
+    },
+    {
+      "id": "budget-energy/keypad-loyalty-20",
+      "supplier": "budget-energy",
+      "name": "Keypad Loyalty 20% Discount",
+      "meter": "24hr",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {
+        "anytime": 30.078
+      },
+      "standingCharge": 9.975,
+      "bandWindows": null,
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "Budget Energy standard variable"
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2025-08-25",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
+    },
+    {
+      "id": "budget-energy/keypad-promo-1-economy7",
+      "supplier": "budget-energy",
+      "name": "Keypad Promo 1 Economy 7",
+      "meter": "economy7",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {
+        "day": 33.821,
+        "night": 16.499,
+        "heat": 16.499
+      },
+      "standingCharge": 22.559,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "Budget Energy standard variable"
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2025-08-25",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
+    },
+    {
+      "id": "click-energy/bill-pay-24hr",
+      "supplier": "click-energy",
+      "name": "Bill Pay 24 Hour (standard rate)",
+      "meter": "24hr",
+      "payment": "any",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
+    },
+    {
+      "id": "click-energy/bill-pay-day-night",
+      "supplier": "click-energy",
+      "name": "Bill Pay Day & Night",
+      "meter": "day-night",
+      "payment": "any",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "00:00-08:00",
+          "summer": "01:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-00:00",
+          "summer": "09:00-01:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
+    },
+    {
+      "id": "click-energy/bill-pay-economy7",
+      "supplier": "click-energy",
+      "name": "Bill Pay Economy 7",
+      "meter": "economy7",
+      "payment": "any",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
+    },
+    {
+      "id": "click-energy/bill-pay-economy7-saver",
+      "supplier": "click-energy",
+      "name": "Bill Pay Economy 7 Saver",
+      "meter": "economy7",
+      "payment": "any",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
+    },
+    {
+      "id": "click-energy/bill-pay-fixed-saver",
+      "supplier": "click-energy",
+      "name": "Bill Pay Fixed Saver",
+      "meter": "24hr",
+      "payment": "any",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2025-11-03",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
+    },
+    {
+      "id": "click-energy/bill-pay-round-the-clock",
+      "supplier": "click-energy",
+      "name": "Bill Pay 24 Hour Round The Clock",
+      "meter": "24hr",
+      "payment": "any",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
+    },
+    {
+      "id": "click-energy/bill-pay-twilight",
+      "supplier": "click-energy",
+      "name": "Bill Pay Twilight",
+      "meter": "day-night",
+      "payment": "any",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
+    },
+    {
+      "id": "click-energy/keypad-24hr",
+      "supplier": "click-energy",
+      "name": "Keypad 24 Hour (standard rate)",
+      "meter": "24hr",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
+    },
+    {
+      "id": "click-energy/keypad-day-night",
+      "supplier": "click-energy",
+      "name": "Keypad Day & Night",
+      "meter": "day-night",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "00:00-08:00",
+          "summer": "01:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-00:00",
+          "summer": "09:00-01:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
+    },
+    {
+      "id": "click-energy/keypad-economy7",
+      "supplier": "click-energy",
+      "name": "Keypad Economy 7",
+      "meter": "economy7",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
+    },
+    {
+      "id": "click-energy/keypad-economy7-saver",
+      "supplier": "click-energy",
+      "name": "Keypad Economy 7 Saver",
+      "meter": "economy7",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
+    },
+    {
+      "id": "click-energy/keypad-fixed-saver",
+      "supplier": "click-energy",
+      "name": "Keypad Fixed Saver",
+      "meter": "24hr",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2025-11-03",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
+    },
+    {
+      "id": "click-energy/keypad-powershift",
+      "supplier": "click-energy",
+      "name": "Keypad Powershift",
+      "meter": "powershift",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": [
+        {
+          "band": "peak",
+          "winter": "16:00-19:00 Mon-Fri",
+          "summer": "17:00-20:00 Mon-Fri"
+        },
+        {
+          "band": "low",
+          "winter": "00:00-08:00 daily, plus 19:00-08:00 Sat/Sun",
+          "summer": "01:00-09:00 daily, plus 20:00-09:00 Sat/Sun"
+        },
+        {
+          "band": "normal",
+          "winter": "all other hours",
+          "summer": "all other hours"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
+    },
+    {
+      "id": "click-energy/keypad-round-the-clock",
+      "supplier": "click-energy",
+      "name": "Keypad 24 Hour Round The Clock",
+      "meter": "24hr",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
+    },
+    {
+      "id": "click-energy/keypad-twilight",
+      "supplier": "click-energy",
+      "name": "Keypad Twilight",
+      "meter": "day-night",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
+    },
+    {
+      "id": "power-ni/bill-pay-24hr-dd-monthly",
+      "supplier": "power-ni",
+      "name": "Bill Pay — Monthly Direct Debit",
+      "meter": "24hr",
+      "payment": "direct-debit-monthly",
+      "billing": "postal",
+      "rates": {
+        "anytime": 32.78
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 40.0,
+        "standardRates": {
+          "anytime": 34.15
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/bill-pay-24hr-dd-monthly-ebill",
+      "supplier": "power-ni",
+      "name": "Bill Pay — Monthly Direct Debit with online billing",
+      "meter": "24hr",
+      "payment": "direct-debit-monthly",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 32.1
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 60.0,
+        "standardRates": {
+          "anytime": 34.15
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/bill-pay-24hr-dd-quarterly",
+      "supplier": "power-ni",
+      "name": "Bill Pay — Quarterly Direct Debit",
+      "meter": "24hr",
+      "payment": "direct-debit-quarterly",
+      "billing": "postal",
+      "rates": {
+        "anytime": 33.29
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 26.0,
+        "standardRates": {
+          "anytime": 34.15
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/bill-pay-24hr-dd-quarterly-ebill",
+      "supplier": "power-ni",
+      "name": "Bill Pay — Quarterly Direct Debit with online billing",
+      "meter": "24hr",
+      "payment": "direct-debit-quarterly",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 32.61
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 46.0,
+        "standardRates": {
+          "anytime": 34.15
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/bill-pay-24hr-standard",
+      "supplier": "power-ni",
+      "name": "Bill Pay — Standard",
+      "meter": "24hr",
+      "payment": "on-receipt",
+      "billing": "postal",
+      "rates": {
+        "anytime": 34.15
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/bill-pay-24hr-standard-ebill",
+      "supplier": "power-ni",
+      "name": "Bill Pay — Standard with online billing",
+      "meter": "24hr",
+      "payment": "on-receipt",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 33.46
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 20.0,
+        "standardRates": {
+          "anytime": 34.15
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/bill-pay-economy7-dd-monthly",
+      "supplier": "power-ni",
+      "name": "Bill Pay Economy 7 — Monthly Direct Debit",
+      "meter": "economy7",
+      "payment": "direct-debit-monthly",
+      "billing": "postal",
+      "rates": {
+        "day": 38.06,
+        "night": 18.19
+      },
+      "standingCharge": 13.84,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 40.0,
+        "standardRates": {
+          "day": 39.65,
+          "night": 18.95
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/bill-pay-economy7-dd-monthly-ebill",
+      "supplier": "power-ni",
+      "name": "Bill Pay Economy 7 — Monthly Direct Debit with online billing",
+      "meter": "economy7",
+      "payment": "direct-debit-monthly",
+      "billing": "ebill",
+      "rates": {
+        "day": 37.27,
+        "night": 17.82
+      },
+      "standingCharge": 13.55,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 60.0,
+        "standardRates": {
+          "day": 39.65,
+          "night": 18.95
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/bill-pay-economy7-dd-quarterly",
+      "supplier": "power-ni",
+      "name": "Bill Pay Economy 7 — Quarterly Direct Debit",
+      "meter": "economy7",
+      "payment": "direct-debit-quarterly",
+      "billing": "postal",
+      "rates": {
+        "day": 38.66,
+        "night": 18.48
+      },
+      "standingCharge": 14.06,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 26.0,
+        "standardRates": {
+          "day": 39.65,
+          "night": 18.95
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/bill-pay-economy7-dd-quarterly-ebill",
+      "supplier": "power-ni",
+      "name": "Bill Pay Economy 7 — Quarterly Direct Debit with online billing",
+      "meter": "economy7",
+      "payment": "direct-debit-quarterly",
+      "billing": "ebill",
+      "rates": {
+        "day": 37.86,
+        "night": 18.1
+      },
+      "standingCharge": 13.77,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 46.0,
+        "standardRates": {
+          "day": 39.65,
+          "night": 18.95
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/bill-pay-economy7-standard",
+      "supplier": "power-ni",
+      "name": "Bill Pay Economy 7 — Standard",
+      "meter": "economy7",
+      "payment": "on-receipt",
+      "billing": "postal",
+      "rates": {
+        "day": 39.65,
+        "night": 18.95
+      },
+      "standingCharge": 14.42,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/bill-pay-economy7-standard-ebill",
+      "supplier": "power-ni",
+      "name": "Bill Pay Economy 7 — Standard with online billing",
+      "meter": "economy7",
+      "payment": "on-receipt",
+      "billing": "ebill",
+      "rates": {
+        "day": 38.86,
+        "night": 18.57
+      },
+      "standingCharge": 14.13,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 20.0,
+        "standardRates": {
+          "day": 39.65,
+          "night": 18.95
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/ev-anytime-dd-monthly",
+      "supplier": "power-ni",
+      "name": "Electric Vehicle Anytime — Monthly Direct Debit",
+      "meter": "ev-anytime",
+      "payment": "direct-debit-monthly",
+      "billing": "postal",
+      "rates": {
+        "anytime": 31.18
+      },
+      "standingCharge": 13.84,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 40.0,
+        "standardRates": {
+          "anytime": 32.48
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/ev-anytime-dd-monthly-ebill",
+      "supplier": "power-ni",
+      "name": "Electric Vehicle Anytime — Monthly Direct Debit with online billing",
+      "meter": "ev-anytime",
+      "payment": "direct-debit-monthly",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 30.53
+      },
+      "standingCharge": 13.55,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 60.0,
+        "standardRates": {
+          "anytime": 32.48
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/ev-anytime-dd-quarterly",
+      "supplier": "power-ni",
+      "name": "Electric Vehicle Anytime — Quarterly Direct Debit",
+      "meter": "ev-anytime",
+      "payment": "direct-debit-quarterly",
+      "billing": "postal",
+      "rates": {
+        "anytime": 31.66
+      },
+      "standingCharge": 14.06,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 26.0,
+        "standardRates": {
+          "anytime": 32.48
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/ev-anytime-dd-quarterly-ebill",
+      "supplier": "power-ni",
+      "name": "Electric Vehicle Anytime — Quarterly Direct Debit with online billing",
+      "meter": "ev-anytime",
+      "payment": "direct-debit-quarterly",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 31.02
+      },
+      "standingCharge": 13.77,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 46.0,
+        "standardRates": {
+          "anytime": 32.48
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/ev-anytime-keypad",
+      "supplier": "power-ni",
+      "name": "Electric Vehicle Anytime — Keypad",
+      "meter": "ev-anytime",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {
+        "anytime": 31.66
+      },
+      "standingCharge": 14.05,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/ev-anytime-standard",
+      "supplier": "power-ni",
+      "name": "Electric Vehicle Anytime — Standard",
+      "meter": "ev-anytime",
+      "payment": "on-receipt",
+      "billing": "postal",
+      "rates": {
+        "anytime": 32.48
+      },
+      "standingCharge": 14.42,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/ev-anytime-standard-ebill",
+      "supplier": "power-ni",
+      "name": "Electric Vehicle Anytime — Standard with online billing",
+      "meter": "ev-anytime",
+      "payment": "on-receipt",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 31.83
+      },
+      "standingCharge": 14.13,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 20.0,
+        "standardRates": {
+          "anytime": 32.48
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/ev-nightshift-dd-monthly",
+      "supplier": "power-ni",
+      "name": "Electric Vehicle Nightshift — Monthly Direct Debit",
+      "meter": "ev-nightshift",
+      "payment": "direct-debit-monthly",
+      "billing": "postal",
+      "rates": {
+        "night": 18.16,
+        "day": 37.99
+      },
+      "standingCharge": 13.84,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 40.0,
+        "standardRates": {
+          "night": 18.92,
+          "day": 39.57
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/ev-nightshift-dd-monthly-ebill",
+      "supplier": "power-ni",
+      "name": "Electric Vehicle Nightshift — Monthly Direct Debit with online billing",
+      "meter": "ev-nightshift",
+      "payment": "direct-debit-monthly",
+      "billing": "ebill",
+      "rates": {
+        "night": 17.79,
+        "day": 37.2
+      },
+      "standingCharge": 13.55,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 60.0,
+        "standardRates": {
+          "night": 18.92,
+          "day": 39.57
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/ev-nightshift-dd-quarterly",
+      "supplier": "power-ni",
+      "name": "Electric Vehicle Nightshift — Quarterly Direct Debit",
+      "meter": "ev-nightshift",
+      "payment": "direct-debit-quarterly",
+      "billing": "postal",
+      "rates": {
+        "night": 18.45,
+        "day": 38.59
+      },
+      "standingCharge": 14.06,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 26.0,
+        "standardRates": {
+          "night": 18.92,
+          "day": 39.57
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/ev-nightshift-dd-quarterly-ebill",
+      "supplier": "power-ni",
+      "name": "Electric Vehicle Nightshift — Quarterly Direct Debit with online billing",
+      "meter": "ev-nightshift",
+      "payment": "direct-debit-quarterly",
+      "billing": "ebill",
+      "rates": {
+        "night": 18.07,
+        "day": 37.79
+      },
+      "standingCharge": 13.77,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 46.0,
+        "standardRates": {
+          "night": 18.92,
+          "day": 39.57
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/ev-nightshift-standard",
+      "supplier": "power-ni",
+      "name": "Electric Vehicle Nightshift — Standard",
+      "meter": "ev-nightshift",
+      "payment": "on-receipt",
+      "billing": "postal",
+      "rates": {
+        "night": 18.92,
+        "day": 39.57
+      },
+      "standingCharge": 14.42,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/ev-nightshift-standard-ebill",
+      "supplier": "power-ni",
+      "name": "Electric Vehicle Nightshift — Standard with online billing",
+      "meter": "ev-nightshift",
+      "payment": "on-receipt",
+      "billing": "ebill",
+      "rates": {
+        "night": 18.54,
+        "day": 38.78
+      },
+      "standingCharge": 14.13,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": {
+        "maxPerYear": 20.0,
+        "standardRates": {
+          "night": 18.92,
+          "day": 39.57
+        }
+      },
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/keypad-24hr",
+      "supplier": "power-ni",
+      "name": "Keypad — 24 hour",
+      "meter": "24hr",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {
+        "anytime": 33.29
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": [
+        {
+          "topUp": 50.0,
+          "maxTopUp": 79.99,
+          "unit": 32.63
+        },
+        {
+          "topUp": 80.0,
+          "maxTopUp": 124.99,
+          "unit": 32.47
+        },
+        {
+          "topUp": 125.0,
+          "maxTopUp": 149.99,
+          "unit": 32.5
+        },
+        {
+          "topUp": 150.0,
+          "maxTopUp": 175.0,
+          "unit": 32.42
+        }
+      ],
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "power-ni/keypad-economy7",
+      "supplier": "power-ni",
+      "name": "Keypad Economy 7",
+      "meter": "economy7",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {
+        "day": 38.61,
+        "night": 18.46
+      },
+      "standingCharge": 14.05,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-07-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
+    },
+    {
+      "id": "share-energy/standard",
+      "supplier": "share-energy",
+      "name": "Home Electricity",
+      "meter": "24hr",
+      "payment": "any",
+      "billing": "n/a",
+      "rates": {},
+      "standingCharge": null,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "unpublished",
+      "sourceURL": "https://share-energy.com/"
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [
+        {
+          "kind": "welcome-credit",
+          "amount": 60.0,
+          "label": "£60 welcome credit"
+        }
+      ],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
+      "id": "sse-airtricity/1yr-home-10-24hr-dd-ebill",
+      "name": "1 Year Home Electricity 10% — Direct Debit with online billing",
+      "meter": "24hr",
+      "payment": "direct-debit",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 34.57
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [
+        {
+          "kind": "welcome-credit",
+          "amount": 60.0,
+          "label": "£60 welcome credit"
+        }
+      ],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
+      "id": "sse-airtricity/1yr-home-10-24hr-dd-postal",
+      "name": "1 Year Home Electricity 10% — Direct Debit with postal billing",
+      "meter": "24hr",
+      "payment": "direct-debit",
+      "billing": "postal",
+      "rates": {
+        "anytime": 35.33
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [
+        {
+          "kind": "welcome-credit",
+          "amount": 60.0,
+          "label": "£60 welcome credit"
+        }
+      ],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
+      "id": "sse-airtricity/1yr-home-10-24hr-nondd-ebill",
+      "name": "1 Year Home Electricity 10% — Not Direct Debit, online billing",
+      "meter": "24hr",
+      "payment": "on-receipt",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 36.88
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [
+        {
+          "kind": "welcome-credit",
+          "amount": 60.0,
+          "label": "£60 welcome credit"
+        }
+      ],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
+      "id": "sse-airtricity/1yr-home-10-24hr-nondd-postal",
+      "name": "1 Year Home Electricity 10% — Not Direct Debit, postal billing",
+      "meter": "24hr",
+      "payment": "on-receipt",
+      "billing": "postal",
+      "rates": {
+        "anytime": 37.64
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [
+        {
+          "kind": "welcome-credit",
+          "amount": 60.0,
+          "label": "£60 welcome credit"
+        }
+      ],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
+      "id": "sse-airtricity/1yr-home-10-economy7-dd-ebill",
+      "name": "1 Year Home Electricity 10% Economy 7 — Direct Debit with online billing",
+      "meter": "economy7",
+      "payment": "direct-debit",
+      "billing": "ebill",
+      "rates": {
+        "day": 35.25,
+        "night": 18.15
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [
+        {
+          "kind": "welcome-credit",
+          "amount": 60.0,
+          "label": "£60 welcome credit"
+        }
+      ],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
+      "id": "sse-airtricity/1yr-home-10-economy7-dd-postal",
+      "name": "1 Year Home Electricity 10% Economy 7 — Direct Debit with postal billing",
+      "meter": "economy7",
+      "payment": "direct-debit",
+      "billing": "postal",
+      "rates": {
+        "day": 36.04,
+        "night": 18.34
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [
+        {
+          "kind": "welcome-credit",
+          "amount": 60.0,
+          "label": "£60 welcome credit"
+        }
+      ],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
+      "id": "sse-airtricity/1yr-home-10-economy7-nondd-ebill",
+      "name": "1 Year Home Electricity 10% Economy 7 — Not Direct Debit, online billing",
+      "meter": "economy7",
+      "payment": "on-receipt",
+      "billing": "ebill",
+      "rates": {
+        "day": 37.6,
+        "night": 18.73
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [
+        {
+          "kind": "welcome-credit",
+          "amount": 60.0,
+          "label": "£60 welcome credit"
+        }
+      ],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
+      "id": "sse-airtricity/1yr-home-10-economy7-nondd-postal",
+      "name": "1 Year Home Electricity 10% Economy 7 — Not Direct Debit, postal billing",
+      "meter": "economy7",
+      "payment": "on-receipt",
+      "billing": "postal",
+      "rates": {
+        "day": 38.38,
+        "night": 18.92
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
+      "id": "sse-airtricity/1yr-home-15-24hr-dd-ebill",
+      "name": "1 Year Home Electricity 15% — Direct Debit with online billing",
+      "meter": "24hr",
+      "payment": "direct-debit",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 32.64
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
+      "id": "sse-airtricity/1yr-home-15-24hr-dd-postal",
+      "name": "1 Year Home Electricity 15% — Direct Debit with postal billing",
+      "meter": "24hr",
+      "payment": "direct-debit",
+      "billing": "postal",
+      "rates": {
+        "anytime": 33.41
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
+      "id": "sse-airtricity/1yr-home-15-24hr-nondd-ebill",
+      "name": "1 Year Home Electricity 15% — Not Direct Debit, online billing",
+      "meter": "24hr",
+      "payment": "on-receipt",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 34.57
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
+      "id": "sse-airtricity/1yr-home-15-24hr-nondd-postal",
+      "name": "1 Year Home Electricity 15% — Not Direct Debit, postal billing",
+      "meter": "24hr",
+      "payment": "on-receipt",
+      "billing": "postal",
+      "rates": {
+        "anytime": 34.95
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
+      "id": "sse-airtricity/1yr-home-15-economy7-dd-ebill",
+      "name": "1 Year Home Electricity 15% Economy 7 — Direct Debit with online billing",
+      "meter": "economy7",
+      "payment": "direct-debit",
+      "billing": "ebill",
+      "rates": {
+        "day": 34.07,
+        "night": 17.39
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
+      "id": "sse-airtricity/1yr-home-15-economy7-dd-postal",
+      "name": "1 Year Home Electricity 15% Economy 7 — Direct Debit with postal billing",
+      "meter": "economy7",
+      "payment": "direct-debit",
+      "billing": "postal",
+      "rates": {
+        "day": 34.46,
+        "night": 17.39
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
+      "id": "sse-airtricity/1yr-home-15-economy7-nondd-ebill",
+      "name": "1 Year Home Electricity 15% Economy 7 — Not Direct Debit, online billing",
+      "meter": "economy7",
+      "payment": "on-receipt",
+      "billing": "ebill",
+      "rates": {
+        "day": 35.64,
+        "night": 17.39
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
+      "id": "sse-airtricity/1yr-home-15-economy7-nondd-postal",
+      "name": "1 Year Home Electricity 15% Economy 7 — Not Direct Debit, postal billing",
+      "meter": "economy7",
+      "payment": "on-receipt",
+      "billing": "postal",
+      "rates": {
+        "day": 35.64,
+        "night": 17.39
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "existing",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
+      "id": "sse-airtricity/1yr-home-26-24hr-dd-ebill",
+      "name": "1 Year Home Electricity 26% — Direct Debit with online billing",
+      "meter": "24hr",
+      "payment": "direct-debit",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 28.42
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "existing",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
+      "id": "sse-airtricity/1yr-home-26-24hr-dd-postal",
+      "name": "1 Year Home Electricity 26% — Direct Debit with postal billing",
+      "meter": "24hr",
+      "payment": "direct-debit",
+      "billing": "postal",
+      "rates": {
+        "anytime": 29.96
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "existing",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
+      "id": "sse-airtricity/1yr-home-26-24hr-nondd-ebill",
+      "name": "1 Year Home Electricity 26% — Not Direct Debit, online billing",
+      "meter": "24hr",
+      "payment": "on-receipt",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 32.27
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "existing",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
+      "id": "sse-airtricity/1yr-home-26-24hr-nondd-postal",
+      "name": "1 Year Home Electricity 26% — Not Direct Debit, postal billing",
+      "meter": "24hr",
+      "payment": "on-receipt",
+      "billing": "postal",
+      "rates": {
+        "anytime": 33.8
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "existing",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
+      "id": "sse-airtricity/1yr-home-26-economy7-dd-ebill",
+      "name": "1 Year Home Electricity 26% Economy 7 — Direct Debit with online billing",
+      "meter": "economy7",
+      "payment": "direct-debit",
+      "billing": "ebill",
+      "rates": {
+        "day": 28.98,
+        "night": 16.43
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "existing",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
+      "id": "sse-airtricity/1yr-home-26-economy7-dd-postal",
+      "name": "1 Year Home Electricity 26% Economy 7 — Direct Debit with postal billing",
+      "meter": "economy7",
+      "payment": "direct-debit",
+      "billing": "postal",
+      "rates": {
+        "day": 30.54,
+        "night": 16.82
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "existing",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
+      "id": "sse-airtricity/1yr-home-26-economy7-nondd-ebill",
+      "name": "1 Year Home Electricity 26% Economy 7 — Not Direct Debit, online billing",
+      "meter": "economy7",
+      "payment": "on-receipt",
+      "billing": "ebill",
+      "rates": {
+        "day": 32.9,
+        "night": 17.39
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "existing",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
+      "id": "sse-airtricity/1yr-home-26-economy7-nondd-postal",
+      "name": "1 Year Home Electricity 26% Economy 7 — Not Direct Debit, postal billing",
+      "meter": "economy7",
+      "payment": "on-receipt",
+      "billing": "postal",
+      "rates": {
+        "day": 34.46,
+        "night": 17.78
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [
+        {
+          "kind": "welcome-credit",
+          "amount": 30.0,
+          "label": "£30 welcome credit"
+        }
+      ],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-KEYPAD-24H-E7-10.5.pdf",
+      "payment": "keypad",
+      "billing": "n/a",
+      "discountCap": null,
+      "keypadReward": null,
+      "id": "sse-airtricity/1yr-keypad-10-5-24hr",
+      "name": "1 Year Home Keypad 10.5% — 24 hour",
+      "meter": "24hr",
+      "rates": {
+        "anytime": 34.38
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [
+        {
+          "kind": "welcome-credit",
+          "amount": 30.0,
+          "label": "£30 welcome credit"
+        }
+      ],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-KEYPAD-24H-E7-10.5.pdf",
+      "payment": "keypad",
+      "billing": "n/a",
+      "discountCap": null,
+      "keypadReward": null,
+      "id": "sse-airtricity/1yr-keypad-10-5-economy7",
+      "name": "1 Year Home Keypad 10.5% Economy 7",
+      "meter": "economy7",
+      "rates": {
+        "day": 35.05,
+        "night": 17.1
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ]
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "both",
+      "incentives": [
+        {
+          "kind": "welcome-credit",
+          "amount": 30.0,
+          "label": "£30 welcome credit"
+        }
+      ],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-KEYPAD-24H-E7-10.5.pdf",
+      "payment": "keypad",
+      "billing": "n/a",
+      "discountCap": null,
+      "keypadReward": null,
+      "id": "sse-airtricity/1yr-keypad-10-5-powershift",
+      "name": "1 Year Home Keypad 10.5% Powershift",
+      "meter": "powershift",
+      "rates": {
+        "peak": 54.94,
+        "normal": 30.84,
+        "low": 20.58
+      },
+      "standingCharge": 1.69,
+      "bandWindows": [
+        {
+          "band": "peak",
+          "winter": "16:00-19:00 Mon-Fri",
+          "summer": "17:00-20:00 Mon-Fri"
+        },
+        {
+          "band": "low",
+          "winter": "00:00-08:00 daily, plus 19:00-08:00 Sat/Sun",
+          "summer": "01:00-09:00 daily, plus 20:00-09:00 Sat/Sun"
+        },
+        {
+          "band": "normal",
+          "winter": "all other hours",
+          "summer": "all other hours"
+        }
+      ]
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "existing",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-KEYPAD-24H-E7-17.pdf",
+      "payment": "keypad",
+      "billing": "n/a",
+      "discountCap": null,
+      "keypadReward": null,
+      "id": "sse-airtricity/1yr-keypad-17-24hr",
+      "name": "1 Year Home Keypad 17% — 24 hour",
+      "meter": "24hr",
+      "rates": {
+        "anytime": 31.88
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "existing",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-KEYPAD-24H-E7-17.pdf",
+      "payment": "keypad",
+      "billing": "n/a",
+      "discountCap": null,
+      "keypadReward": null,
+      "id": "sse-airtricity/1yr-keypad-17-economy7",
+      "name": "1 Year Home Keypad 17% Economy 7",
+      "meter": "economy7",
+      "rates": {
+        "day": 32.51,
+        "night": 15.87
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ]
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": 12,
+        "exitFee": 0.0,
+        "revertsTo": "SSE Airtricity standard rates"
+      },
+      "availability": "existing",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-KEYPAD-24H-E7-17.pdf",
+      "payment": "keypad",
+      "billing": "n/a",
+      "discountCap": null,
+      "keypadReward": null,
+      "id": "sse-airtricity/1yr-keypad-17-powershift",
+      "name": "1 Year Home Keypad 17% Powershift",
+      "meter": "powershift",
+      "rates": {
+        "peak": 50.95,
+        "normal": 28.6,
+        "low": 19.09
+      },
+      "standingCharge": 1.69,
+      "bandWindows": [
+        {
+          "band": "peak",
+          "winter": "16:00-19:00 Mon-Fri",
+          "summer": "17:00-20:00 Mon-Fri"
+        },
+        {
+          "band": "low",
+          "winter": "00:00-08:00 daily, plus 19:00-08:00 Sat/Sun",
+          "summer": "01:00-09:00 daily, plus 20:00-09:00 Sat/Sun"
+        },
+        {
+          "band": "normal",
+          "winter": "all other hours",
+          "summer": "all other hours"
+        }
+      ]
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/KEYPAD-24H-E7-2.5.pdf",
+      "payment": "keypad",
+      "billing": "n/a",
+      "discountCap": null,
+      "keypadReward": null,
+      "id": "sse-airtricity/keypad-standard-24hr",
+      "name": "Standard Keypad — 24 hour",
+      "meter": "24hr",
+      "rates": {
+        "anytime": 37.45
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/KEYPAD-24H-E7-2.5.pdf",
+      "payment": "keypad",
+      "billing": "n/a",
+      "discountCap": null,
+      "keypadReward": null,
+      "id": "sse-airtricity/keypad-standard-economy7",
+      "name": "Standard Keypad Economy 7",
+      "meter": "economy7",
+      "rates": {
+        "day": 38.19,
+        "night": 18.64
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ]
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/KEYPAD-24H-E7-2.5.pdf",
+      "payment": "keypad",
+      "billing": "n/a",
+      "discountCap": null,
+      "keypadReward": null,
+      "id": "sse-airtricity/keypad-standard-powershift",
+      "name": "Standard Keypad Powershift",
+      "meter": "powershift",
+      "rates": {
+        "peak": 59.85,
+        "normal": 33.6,
+        "low": 22.42
+      },
+      "standingCharge": 1.69,
+      "bandWindows": [
+        {
+          "band": "peak",
+          "winter": "16:00-19:00 Mon-Fri",
+          "summer": "17:00-20:00 Mon-Fri"
+        },
+        {
+          "band": "low",
+          "winter": "00:00-08:00 daily, plus 19:00-08:00 Sat/Sun",
+          "summer": "01:00-09:00 daily, plus 20:00-09:00 Sat/Sun"
+        },
+        {
+          "band": "normal",
+          "winter": "all other hours",
+          "summer": "all other hours"
+        }
+      ]
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
+      "id": "sse-airtricity/smartsaver-24hr-dd-ebill",
+      "name": "Smartsaver Standard — Direct Debit with online billing",
+      "meter": "24hr",
+      "payment": "direct-debit",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 36.11
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
+      "id": "sse-airtricity/smartsaver-24hr-dd-postal",
+      "name": "Smartsaver Standard — Direct Debit with postal billing",
+      "meter": "24hr",
+      "payment": "direct-debit",
+      "billing": "postal",
+      "rates": {
+        "anytime": 36.88
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
+      "id": "sse-airtricity/smartsaver-24hr-nondd-ebill",
+      "name": "Smartsaver Standard — Not Direct Debit, online billing",
+      "meter": "24hr",
+      "payment": "on-receipt",
+      "billing": "ebill",
+      "rates": {
+        "anytime": 38.02
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
+      "id": "sse-airtricity/smartsaver-24hr-nondd-postal",
+      "name": "Smartsaver Standard — Not Direct Debit, postal billing",
+      "meter": "24hr",
+      "payment": "on-receipt",
+      "billing": "postal",
+      "rates": {
+        "anytime": 38.41
+      },
+      "standingCharge": 0.0,
+      "bandWindows": null,
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
+      "id": "sse-airtricity/smartsaver-economy7-dd-ebill",
+      "name": "Smartsaver Standard Economy 7 — Direct Debit with online billing",
+      "meter": "economy7",
+      "payment": "direct-debit",
+      "billing": "ebill",
+      "rates": {
+        "day": 37.6,
+        "night": 19.11
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
+      "id": "sse-airtricity/smartsaver-economy7-dd-postal",
+      "name": "Smartsaver Standard Economy 7 — Direct Debit with postal billing",
+      "meter": "economy7",
+      "payment": "direct-debit",
+      "billing": "postal",
+      "rates": {
+        "day": 37.99,
+        "night": 19.11
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
+      "id": "sse-airtricity/smartsaver-economy7-nondd-ebill",
+      "name": "Smartsaver Standard Economy 7 — Not Direct Debit, online billing",
+      "meter": "economy7",
+      "payment": "on-receipt",
+      "billing": "ebill",
+      "rates": {
+        "day": 39.17,
+        "night": 19.11
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    },
+    {
+      "supplier": "sse-airtricity",
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "effectiveFrom": "2025-11-01",
+      "confirmedAt": "2026-07-31T10:22:11Z",
+      "provenance": "primary",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
+      "id": "sse-airtricity/smartsaver-economy7-nondd-postal",
+      "name": "Smartsaver Standard Economy 7 — Not Direct Debit, postal billing",
+      "meter": "economy7",
+      "payment": "on-receipt",
+      "billing": "postal",
+      "rates": {
+        "day": 39.17,
+        "night": 19.11
+      },
+      "standingCharge": 10.22,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "discountCap": null,
+      "keypadReward": null
+    }
+  ],
+  "announcements": [
+    {
+      "id": "budget-energy/2026-08-04",
+      "supplier": "budget-energy",
+      "scope": "all tariffs",
+      "changePct": 9.5,
+      "effectiveFrom": "2026-08-04",
+      "seenAt": "2026-07-31T10:22:11Z",
+      "headline": "Budget Energy rates rise by about 9.5% — Bill Pay £100 Loyalty & 18% Discount goes 31.461p to 34.45p",
+      "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
+    },
+    {
+      "id": "sse-airtricity/2026-08-01",
+      "supplier": "sse-airtricity",
+      "scope": "all tariffs",
+      "changePct": 6.2,
+      "effectiveFrom": "2026-08-01",
+      "seenAt": "2026-07-31T10:22:11Z",
+      "headline": "SSE Airtricity standard unit rate rises from 38.41p to 40.79p",
+      "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Future/1YR-CR-24H-E7-15.pdf"
+    }
+  ],
+  "catalogueHash": "sha256:a29abd99cfc22d0abb6cf1b8f457f457"
+}

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Whittle privacy policy
+    url: https://conanmcn.github.io/whittle-feed/privacy/
+    about: Read how Whittle handles household data and location.
