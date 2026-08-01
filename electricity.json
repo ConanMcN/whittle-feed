@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-31T10:22:11Z",
+  "generatedAt": "2026-08-01T10:49:56Z",
   "benchmarkKWh": 3200,
   "vatRate": 0.05,
   "suppliers": [
@@ -74,7 +74,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2025-08-25",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
     },
@@ -100,7 +100,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2025-08-25",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
     },
@@ -126,7 +126,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2025-08-25",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
     },
@@ -164,7 +164,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-02-18",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
     },
@@ -196,7 +196,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2025-08-25",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
     },
@@ -228,7 +228,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2025-08-25",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
     },
@@ -254,7 +254,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2025-08-25",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
     },
@@ -293,7 +293,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2025-08-25",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
     },
@@ -317,7 +317,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-04-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
     },
@@ -352,7 +352,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-04-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
     },
@@ -387,7 +387,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-04-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
     },
@@ -422,7 +422,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-04-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
     },
@@ -446,7 +446,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2025-11-03",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
     },
@@ -470,7 +470,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-04-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
     },
@@ -494,7 +494,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-04-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
     },
@@ -518,7 +518,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-04-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
     },
@@ -553,7 +553,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-04-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
     },
@@ -588,7 +588,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-04-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
     },
@@ -623,7 +623,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-04-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
     },
@@ -647,7 +647,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2025-11-03",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
     },
@@ -687,7 +687,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-04-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
     },
@@ -711,7 +711,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-04-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
     },
@@ -735,7 +735,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-04-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://www.clickenergyni.com/Help/Your-Tariff.aspx"
     },
@@ -766,7 +766,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -797,7 +797,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -828,7 +828,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -859,7 +859,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -885,7 +885,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -916,7 +916,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -960,7 +960,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1004,7 +1004,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1048,7 +1048,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1092,7 +1092,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1130,7 +1130,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1174,7 +1174,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1205,7 +1205,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1236,7 +1236,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1267,7 +1267,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1298,7 +1298,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1324,7 +1324,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1350,7 +1350,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1381,7 +1381,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1425,7 +1425,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1469,7 +1469,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1513,7 +1513,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1557,7 +1557,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1595,7 +1595,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1639,7 +1639,7 @@
       },
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1686,7 +1686,7 @@
         }
       ],
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1724,7 +1724,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-07-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
@@ -1748,7 +1748,7 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-04-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "unpublished",
       "sourceURL": "https://share-energy.com/"
     },
@@ -1767,8 +1767,8 @@
           "label": "£60 welcome credit"
         }
       ],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
       "id": "sse-airtricity/1yr-home-10-24hr-dd-ebill",
@@ -1777,7 +1777,7 @@
       "payment": "direct-debit",
       "billing": "ebill",
       "rates": {
-        "anytime": 34.57
+        "anytime": 36.72
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -1799,8 +1799,8 @@
           "label": "£60 welcome credit"
         }
       ],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
       "id": "sse-airtricity/1yr-home-10-24hr-dd-postal",
@@ -1809,7 +1809,7 @@
       "payment": "direct-debit",
       "billing": "postal",
       "rates": {
-        "anytime": 35.33
+        "anytime": 37.53
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -1831,8 +1831,8 @@
           "label": "£60 welcome credit"
         }
       ],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
       "id": "sse-airtricity/1yr-home-10-24hr-nondd-ebill",
@@ -1841,7 +1841,7 @@
       "payment": "on-receipt",
       "billing": "ebill",
       "rates": {
-        "anytime": 36.88
+        "anytime": 39.17
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -1863,8 +1863,8 @@
           "label": "£60 welcome credit"
         }
       ],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
       "id": "sse-airtricity/1yr-home-10-24hr-nondd-postal",
@@ -1873,7 +1873,7 @@
       "payment": "on-receipt",
       "billing": "postal",
       "rates": {
-        "anytime": 37.64
+        "anytime": 39.97
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -1895,8 +1895,8 @@
           "label": "£60 welcome credit"
         }
       ],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
       "id": "sse-airtricity/1yr-home-10-economy7-dd-ebill",
@@ -1905,10 +1905,10 @@
       "payment": "direct-debit",
       "billing": "ebill",
       "rates": {
-        "day": 35.25,
-        "night": 18.15
+        "day": 37.43,
+        "night": 19.28
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -1939,8 +1939,8 @@
           "label": "£60 welcome credit"
         }
       ],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
       "id": "sse-airtricity/1yr-home-10-economy7-dd-postal",
@@ -1949,10 +1949,10 @@
       "payment": "direct-debit",
       "billing": "postal",
       "rates": {
-        "day": 36.04,
-        "night": 18.34
+        "day": 38.26,
+        "night": 19.49
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -1983,8 +1983,8 @@
           "label": "£60 welcome credit"
         }
       ],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
       "id": "sse-airtricity/1yr-home-10-economy7-nondd-ebill",
@@ -1993,10 +1993,10 @@
       "payment": "on-receipt",
       "billing": "ebill",
       "rates": {
-        "day": 37.6,
-        "night": 18.73
+        "day": 39.93,
+        "night": 19.89
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -2027,8 +2027,8 @@
           "label": "£60 welcome credit"
         }
       ],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-10.pdf",
       "id": "sse-airtricity/1yr-home-10-economy7-nondd-postal",
@@ -2037,10 +2037,10 @@
       "payment": "on-receipt",
       "billing": "postal",
       "rates": {
-        "day": 38.38,
-        "night": 18.92
+        "day": 40.76,
+        "night": 20.1
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -2065,8 +2065,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
       "id": "sse-airtricity/1yr-home-15-24hr-dd-ebill",
@@ -2075,7 +2075,7 @@
       "payment": "direct-debit",
       "billing": "ebill",
       "rates": {
-        "anytime": 32.64
+        "anytime": 34.67
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -2091,8 +2091,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
       "id": "sse-airtricity/1yr-home-15-24hr-dd-postal",
@@ -2101,7 +2101,7 @@
       "payment": "direct-debit",
       "billing": "postal",
       "rates": {
-        "anytime": 33.41
+        "anytime": 35.49
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -2117,8 +2117,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
       "id": "sse-airtricity/1yr-home-15-24hr-nondd-ebill",
@@ -2127,7 +2127,7 @@
       "payment": "on-receipt",
       "billing": "ebill",
       "rates": {
-        "anytime": 34.57
+        "anytime": 36.72
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -2143,8 +2143,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
       "id": "sse-airtricity/1yr-home-15-24hr-nondd-postal",
@@ -2153,7 +2153,7 @@
       "payment": "on-receipt",
       "billing": "postal",
       "rates": {
-        "anytime": 34.95
+        "anytime": 37.12
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -2169,8 +2169,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
       "id": "sse-airtricity/1yr-home-15-economy7-dd-ebill",
@@ -2179,10 +2179,10 @@
       "payment": "direct-debit",
       "billing": "ebill",
       "rates": {
-        "day": 34.07,
-        "night": 17.39
+        "day": 36.18,
+        "night": 18.47
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -2207,8 +2207,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
       "id": "sse-airtricity/1yr-home-15-economy7-dd-postal",
@@ -2217,10 +2217,10 @@
       "payment": "direct-debit",
       "billing": "postal",
       "rates": {
-        "day": 34.46,
-        "night": 17.39
+        "day": 36.6,
+        "night": 18.47
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -2245,8 +2245,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
       "id": "sse-airtricity/1yr-home-15-economy7-nondd-ebill",
@@ -2255,10 +2255,10 @@
       "payment": "on-receipt",
       "billing": "ebill",
       "rates": {
-        "day": 35.64,
-        "night": 17.39
+        "day": 37.85,
+        "night": 18.47
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -2283,8 +2283,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-15.pdf",
       "id": "sse-airtricity/1yr-home-15-economy7-nondd-postal",
@@ -2293,10 +2293,10 @@
       "payment": "on-receipt",
       "billing": "postal",
       "rates": {
-        "day": 35.64,
-        "night": 17.39
+        "day": 37.85,
+        "night": 18.47
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -2321,8 +2321,8 @@
       },
       "availability": "existing",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
       "id": "sse-airtricity/1yr-home-26-24hr-dd-ebill",
@@ -2331,7 +2331,7 @@
       "payment": "direct-debit",
       "billing": "ebill",
       "rates": {
-        "anytime": 28.42
+        "anytime": 30.19
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -2347,8 +2347,8 @@
       },
       "availability": "existing",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
       "id": "sse-airtricity/1yr-home-26-24hr-dd-postal",
@@ -2357,7 +2357,7 @@
       "payment": "direct-debit",
       "billing": "postal",
       "rates": {
-        "anytime": 29.96
+        "anytime": 31.82
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -2373,8 +2373,8 @@
       },
       "availability": "existing",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
       "id": "sse-airtricity/1yr-home-26-24hr-nondd-ebill",
@@ -2383,7 +2383,7 @@
       "payment": "on-receipt",
       "billing": "ebill",
       "rates": {
-        "anytime": 32.27
+        "anytime": 34.26
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -2399,8 +2399,8 @@
       },
       "availability": "existing",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
       "id": "sse-airtricity/1yr-home-26-24hr-nondd-postal",
@@ -2409,7 +2409,7 @@
       "payment": "on-receipt",
       "billing": "postal",
       "rates": {
-        "anytime": 33.8
+        "anytime": 35.9
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -2425,8 +2425,8 @@
       },
       "availability": "existing",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
       "id": "sse-airtricity/1yr-home-26-economy7-dd-ebill",
@@ -2435,10 +2435,10 @@
       "payment": "direct-debit",
       "billing": "ebill",
       "rates": {
-        "day": 28.98,
-        "night": 16.43
+        "day": 30.78,
+        "night": 17.45
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -2463,8 +2463,8 @@
       },
       "availability": "existing",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
       "id": "sse-airtricity/1yr-home-26-economy7-dd-postal",
@@ -2473,10 +2473,10 @@
       "payment": "direct-debit",
       "billing": "postal",
       "rates": {
-        "day": 30.54,
-        "night": 16.82
+        "day": 32.45,
+        "night": 17.86
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -2501,8 +2501,8 @@
       },
       "availability": "existing",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
       "id": "sse-airtricity/1yr-home-26-economy7-nondd-ebill",
@@ -2511,10 +2511,10 @@
       "payment": "on-receipt",
       "billing": "ebill",
       "rates": {
-        "day": 32.9,
-        "night": 17.39
+        "day": 34.93,
+        "night": 18.47
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -2539,8 +2539,8 @@
       },
       "availability": "existing",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-CR-24H-E7-26.pdf",
       "id": "sse-airtricity/1yr-home-26-economy7-nondd-postal",
@@ -2549,10 +2549,10 @@
       "payment": "on-receipt",
       "billing": "postal",
       "rates": {
-        "day": 34.46,
-        "night": 17.78
+        "day": 36.6,
+        "night": 18.88
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -2583,8 +2583,8 @@
           "label": "£30 welcome credit"
         }
       ],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-KEYPAD-24H-E7-10.5.pdf",
       "payment": "keypad",
@@ -2595,7 +2595,7 @@
       "name": "1 Year Home Keypad 10.5% — 24 hour",
       "meter": "24hr",
       "rates": {
-        "anytime": 34.38
+        "anytime": 36.51
       },
       "standingCharge": 0.0,
       "bandWindows": null
@@ -2615,8 +2615,8 @@
           "label": "£30 welcome credit"
         }
       ],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-KEYPAD-24H-E7-10.5.pdf",
       "payment": "keypad",
@@ -2627,10 +2627,10 @@
       "name": "1 Year Home Keypad 10.5% Economy 7",
       "meter": "economy7",
       "rates": {
-        "day": 35.05,
-        "night": 17.1
+        "day": 37.22,
+        "night": 18.17
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -2659,8 +2659,8 @@
           "label": "£30 welcome credit"
         }
       ],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-KEYPAD-24H-E7-10.5.pdf",
       "payment": "keypad",
@@ -2671,11 +2671,11 @@
       "name": "1 Year Home Keypad 10.5% Powershift",
       "meter": "powershift",
       "rates": {
-        "peak": 54.94,
-        "normal": 30.84,
-        "low": 20.58
+        "peak": 58.34,
+        "normal": 32.75,
+        "low": 21.86
       },
-      "standingCharge": 1.69,
+      "standingCharge": 1.8,
       "bandWindows": [
         {
           "band": "peak",
@@ -2703,8 +2703,8 @@
       },
       "availability": "existing",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-KEYPAD-24H-E7-17.pdf",
       "payment": "keypad",
@@ -2715,7 +2715,7 @@
       "name": "1 Year Home Keypad 17% — 24 hour",
       "meter": "24hr",
       "rates": {
-        "anytime": 31.88
+        "anytime": 33.86
       },
       "standingCharge": 0.0,
       "bandWindows": null
@@ -2729,8 +2729,8 @@
       },
       "availability": "existing",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-KEYPAD-24H-E7-17.pdf",
       "payment": "keypad",
@@ -2741,10 +2741,10 @@
       "name": "1 Year Home Keypad 17% Economy 7",
       "meter": "economy7",
       "rates": {
-        "day": 32.51,
-        "night": 15.87
+        "day": 34.52,
+        "night": 16.84
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -2767,8 +2767,8 @@
       },
       "availability": "existing",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/1YR-KEYPAD-24H-E7-17.pdf",
       "payment": "keypad",
@@ -2779,11 +2779,11 @@
       "name": "1 Year Home Keypad 17% Powershift",
       "meter": "powershift",
       "rates": {
-        "peak": 50.95,
-        "normal": 28.6,
-        "low": 19.09
+        "peak": 54.11,
+        "normal": 30.38,
+        "low": 20.28
       },
-      "standingCharge": 1.69,
+      "standingCharge": 1.8,
       "bandWindows": [
         {
           "band": "peak",
@@ -2811,8 +2811,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/KEYPAD-24H-E7-2.5.pdf",
       "payment": "keypad",
@@ -2823,7 +2823,7 @@
       "name": "Standard Keypad — 24 hour",
       "meter": "24hr",
       "rates": {
-        "anytime": 37.45
+        "anytime": 39.77
       },
       "standingCharge": 0.0,
       "bandWindows": null
@@ -2837,8 +2837,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/KEYPAD-24H-E7-2.5.pdf",
       "payment": "keypad",
@@ -2849,10 +2849,10 @@
       "name": "Standard Keypad Economy 7",
       "meter": "economy7",
       "rates": {
-        "day": 38.19,
-        "night": 18.64
+        "day": 40.55,
+        "night": 19.79
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -2875,8 +2875,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/KEYPAD-24H-E7-2.5.pdf",
       "payment": "keypad",
@@ -2887,11 +2887,11 @@
       "name": "Standard Keypad Powershift",
       "meter": "powershift",
       "rates": {
-        "peak": 59.85,
-        "normal": 33.6,
-        "low": 22.42
+        "peak": 63.56,
+        "normal": 35.68,
+        "low": 23.81
       },
-      "standingCharge": 1.69,
+      "standingCharge": 1.8,
       "bandWindows": [
         {
           "band": "peak",
@@ -2919,8 +2919,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
       "id": "sse-airtricity/smartsaver-24hr-dd-ebill",
@@ -2929,7 +2929,7 @@
       "payment": "direct-debit",
       "billing": "ebill",
       "rates": {
-        "anytime": 36.11
+        "anytime": 38.35
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -2945,8 +2945,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
       "id": "sse-airtricity/smartsaver-24hr-dd-postal",
@@ -2955,7 +2955,7 @@
       "payment": "direct-debit",
       "billing": "postal",
       "rates": {
-        "anytime": 36.88
+        "anytime": 39.17
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -2971,8 +2971,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
       "id": "sse-airtricity/smartsaver-24hr-nondd-ebill",
@@ -2981,7 +2981,7 @@
       "payment": "on-receipt",
       "billing": "ebill",
       "rates": {
-        "anytime": 38.02
+        "anytime": 40.38
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -2997,8 +2997,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
       "id": "sse-airtricity/smartsaver-24hr-nondd-postal",
@@ -3007,7 +3007,7 @@
       "payment": "on-receipt",
       "billing": "postal",
       "rates": {
-        "anytime": 38.41
+        "anytime": 40.79
       },
       "standingCharge": 0.0,
       "bandWindows": null,
@@ -3023,8 +3023,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
       "id": "sse-airtricity/smartsaver-economy7-dd-ebill",
@@ -3033,10 +3033,10 @@
       "payment": "direct-debit",
       "billing": "ebill",
       "rates": {
-        "day": 37.6,
-        "night": 19.11
+        "day": 39.93,
+        "night": 20.3
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -3061,8 +3061,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
       "id": "sse-airtricity/smartsaver-economy7-dd-postal",
@@ -3071,10 +3071,10 @@
       "payment": "direct-debit",
       "billing": "postal",
       "rates": {
-        "day": 37.99,
-        "night": 19.11
+        "day": 40.34,
+        "night": 20.3
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -3099,8 +3099,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
       "id": "sse-airtricity/smartsaver-economy7-nondd-ebill",
@@ -3109,10 +3109,10 @@
       "payment": "on-receipt",
       "billing": "ebill",
       "rates": {
-        "day": 39.17,
-        "night": 19.11
+        "day": 41.59,
+        "night": 20.3
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -3137,8 +3137,8 @@
       },
       "availability": "both",
       "incentives": [],
-      "effectiveFrom": "2025-11-01",
-      "confirmedAt": "2026-07-31T10:22:11Z",
+      "effectiveFrom": "2026-08-01",
+      "confirmedAt": "2026-08-01T10:49:56Z",
       "provenance": "primary",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Current/CR-24H-E7-SMARTSAVER-6.pdf",
       "id": "sse-airtricity/smartsaver-economy7-nondd-postal",
@@ -3147,10 +3147,10 @@
       "payment": "on-receipt",
       "billing": "postal",
       "rates": {
-        "day": 39.17,
-        "night": 19.11
+        "day": 41.59,
+        "night": 20.3
       },
-      "standingCharge": 10.22,
+      "standingCharge": 10.85,
       "bandWindows": [
         {
           "band": "night",
@@ -3174,7 +3174,7 @@
       "scope": "all tariffs",
       "changePct": 9.5,
       "effectiveFrom": "2026-08-04",
-      "seenAt": "2026-07-31T10:22:11Z",
+      "seenAt": "2026-08-01T10:49:56Z",
       "headline": "Budget Energy rates rise by about 9.5% — Bill Pay £100 Loyalty & 18% Discount goes 31.461p to 34.45p",
       "sourceURL": "https://www.budgetenergy.co.uk/energy-tariffs/"
     },
@@ -3182,12 +3182,12 @@
       "id": "sse-airtricity/2026-08-01",
       "supplier": "sse-airtricity",
       "scope": "all tariffs",
-      "changePct": 6.2,
+      "changePct": 0.0,
       "effectiveFrom": "2026-08-01",
-      "seenAt": "2026-07-31T10:22:11Z",
-      "headline": "SSE Airtricity standard unit rate rises from 38.41p to 40.79p",
+      "seenAt": "2026-08-01T10:49:56Z",
+      "headline": "SSE Airtricity standard unit rate falls from 40.79p to 40.79p",
       "sourceURL": "https://www.sseairtricity.com/assets/Tariffs/NI/Future/1YR-CR-24H-E7-15.pdf"
     }
   ],
-  "catalogueHash": "sha256:a29abd99cfc22d0abb6cf1b8f457f457"
+  "catalogueHash": "sha256:c28f3bcde41cc27da50c57f4ee02f1ba"
 }
