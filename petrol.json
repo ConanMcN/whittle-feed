@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-16T10:20:08Z",
+  "generatedAt": "2026-08-16T14:20:08Z",
   "medians": {
     "petrolSuper": 162.9,
     "petrol": 153.9,
@@ -18249,7 +18249,7 @@
           "changedAt": "2026-08-02T13:46:30Z"
         }
       },
-      "stale": false
+      "stale": true
     },
     {
       "id": "eb3969e866d4c7e5d887241ccd034500d9f780e1a2e5ba3734ac275126f3679f",
@@ -19376,6 +19376,40 @@
         }
       },
       "stale": true
+    },
+    {
+      "id": "fa781cb012f1c35c143cb9823cb77caed7d568bca360926eba0f6740356acfcb",
+      "name": "Halfway Filling Station",
+      "rawName": "Halfway Filling Station",
+      "brand": "Maxol",
+      "postcode": "BT78 1PZ",
+      "town": "OMAGH",
+      "address": "SLICED MEALS, 58, TATTYREAGH ROAD, OMAGH, BT78 1PZ",
+      "lat": 54.5423027,
+      "lon": -7.2897877,
+      "supermarket": true,
+      "motorway": false,
+      "temporaryClosure": false,
+      "hours": {
+        "monday": "06:30-21:00",
+        "tuesday": "06:30-21:00",
+        "wednesday": "06:30-21:00",
+        "thursday": "06:30-21:00",
+        "friday": "06:30-21:00",
+        "saturday": "08:00-21:00",
+        "sunday": "09:00-21:00"
+      },
+      "prices": {
+        "petrol": {
+          "ppl": 156.9,
+          "changedAt": "2026-08-16T13:39:32Z"
+        },
+        "diesel": {
+          "ppl": 179.9,
+          "changedAt": "2026-08-16T13:39:32Z"
+        }
+      },
+      "stale": false
     },
     {
       "id": "fabbe55e619caa3ffeff0089b0b0d5efe8eba5842364de66e4a94b31d082d3da",
