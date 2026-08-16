@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-15T14:20:08Z",
+  "generatedAt": "2026-08-16T09:35:40Z",
   "medians": {
     "petrolSuper": 162.9,
     "petrol": 153.9,
@@ -2261,12 +2261,12 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 163.9,
-          "changedAt": "2026-08-12T22:03:27Z"
+          "ppl": 162.9,
+          "changedAt": "2026-08-15T22:02:36Z"
         },
         "petrol": {
-          "ppl": 151.9,
-          "changedAt": "2026-08-12T22:03:27Z"
+          "ppl": 150.9,
+          "changedAt": "2026-08-15T22:02:36Z"
         },
         "diesel": {
           "ppl": 168.9,
@@ -2367,8 +2367,8 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 151.9,
-          "changedAt": "2026-08-12T22:03:27Z"
+          "ppl": 150.9,
+          "changedAt": "2026-08-15T22:02:36Z"
         },
         "diesel": {
           "ppl": 168.9,
@@ -4919,7 +4919,7 @@
           "changedAt": "2026-08-01T15:37:35Z"
         }
       },
-      "stale": false
+      "stale": true
     },
     {
       "id": "3d497aaa759bee95956430116e955e1b9ddedfad5d01ccacecb502c8e5e0d4fd",
@@ -12757,8 +12757,8 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 144.9,
-          "changedAt": "2026-08-13T12:30:15Z"
+          "ppl": 153.9,
+          "changedAt": "2026-08-16T07:03:35Z"
         },
         "diesel": {
           "ppl": 174.9,
@@ -13117,12 +13117,12 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 163.9,
-          "changedAt": "2026-08-12T21:59:23Z"
+          "ppl": 162.9,
+          "changedAt": "2026-08-15T21:47:16Z"
         },
         "petrol": {
-          "ppl": 151.9,
-          "changedAt": "2026-08-12T21:59:23Z"
+          "ppl": 150.9,
+          "changedAt": "2026-08-15T21:47:16Z"
         },
         "diesel": {
           "ppl": 168.9,
@@ -16097,15 +16097,15 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 154.9,
-          "changedAt": "2026-07-24T10:42:53Z"
+          "ppl": 154.0,
+          "changedAt": "2026-08-15T14:35:04Z"
         },
         "diesel": {
-          "ppl": 173.9,
-          "changedAt": "2026-07-24T10:43:10Z"
+          "ppl": 173.0,
+          "changedAt": "2026-08-15T14:34:43Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "d0ec7f8d449cee9f1e691452281aeb4a9653f7ee57d42ea82d4c77d107499bed",
@@ -18806,6 +18806,40 @@
       "stale": true
     },
     {
+      "id": "f27ff2ed4633d3eb556fb1810463d293ec1974b07a87f55a394d4e294472b3a8",
+      "name": "Derg Valley Service Station",
+      "rawName": "Derg Valley Service Station",
+      "brand": "Derg Valley Service Station",
+      "postcode": "BT81 7HZ",
+      "town": "CASTLEDERG",
+      "address": "DERG VALLEY SERVICE STATION, 52, STRABANE ROAD, CASTLEDERG, BT81 7HZ",
+      "lat": 54.7100166,
+      "lon": -7.577125,
+      "supermarket": false,
+      "motorway": false,
+      "temporaryClosure": false,
+      "hours": {
+        "monday": "09:00-18:00",
+        "tuesday": "09:00-18:00",
+        "wednesday": "09:00-18:00",
+        "thursday": "09:00-18:00",
+        "friday": "09:00-18:00",
+        "saturday": "09:00-18:00",
+        "sunday": "00:00-00:00"
+      },
+      "prices": {
+        "petrol": {
+          "ppl": 157.9,
+          "changedAt": "2026-08-15T19:38:50Z"
+        },
+        "diesel": {
+          "ppl": 175.9,
+          "changedAt": "2026-08-15T19:38:50Z"
+        }
+      },
+      "stale": false
+    },
+    {
       "id": "f31a5c0746950b14780d9aa764b146c3f5c9cf799319947574a04be648b704cf",
       "name": "Patterson Texaco Centra Dungannon M1",
       "rawName": "Patterson Texaco Centra Dungannon M1",
@@ -19629,8 +19663,8 @@
           "changedAt": "2026-08-13T08:29:40Z"
         },
         "petrol": {
-          "ppl": 151.9,
-          "changedAt": "2026-08-14T09:49:22Z"
+          "ppl": 155.9,
+          "changedAt": "2026-08-16T05:54:51Z"
         },
         "diesel": {
           "ppl": 170.9,
