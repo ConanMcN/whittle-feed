@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-16T14:20:08Z",
+  "generatedAt": "2026-08-17T06:20:05Z",
   "medians": {
     "petrolSuper": 162.9,
     "petrol": 153.9,
@@ -1231,8 +1231,8 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 149.9,
-          "changedAt": "2026-08-07T06:13:16Z"
+          "ppl": 152.9,
+          "changedAt": "2026-08-17T06:11:31Z"
         },
         "diesel": {
           "ppl": 174.9,
@@ -8237,11 +8237,11 @@
           "changedAt": "2026-07-30T04:25:19Z"
         },
         "diesel": {
-          "ppl": 176.9,
-          "changedAt": "2026-07-30T04:25:19Z"
+          "ppl": 174.9,
+          "changedAt": "2026-08-17T04:31:20Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "67bde01060c54ceae777d09fb1a13f4565f5c31b8199c6deec60637fbb11ec4f",
