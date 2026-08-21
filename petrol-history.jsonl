@@ -103,8 +103,8 @@
 {"date": "2026-08-20", "grade": "hvo", "medianPpl": 209.9, "minPpl": 199.9, "stationCount": 19}
 {"date": "2026-08-20", "grade": "petrol", "medianPpl": 153.9, "minPpl": 141.9, "stationCount": 494}
 {"date": "2026-08-20", "grade": "petrolSuper", "medianPpl": 162.9, "minPpl": 146.9, "stationCount": 225}
-{"date": "2026-08-21", "grade": "diesel", "medianPpl": 174.9, "minPpl": 151.9, "stationCount": 544}
+{"date": "2026-08-21", "grade": "diesel", "medianPpl": 174.9, "minPpl": 154.9, "stationCount": 545}
 {"date": "2026-08-21", "grade": "dieselPremium", "medianPpl": 183.9, "minPpl": 173.9, "stationCount": 115}
 {"date": "2026-08-21", "grade": "hvo", "medianPpl": 209.9, "minPpl": 199.9, "stationCount": 19}
-{"date": "2026-08-21", "grade": "petrol", "medianPpl": 153.9, "minPpl": 141.9, "stationCount": 493}
-{"date": "2026-08-21", "grade": "petrolSuper", "medianPpl": 162.9, "minPpl": 146.9, "stationCount": 224}
+{"date": "2026-08-21", "grade": "petrol", "medianPpl": 153.9, "minPpl": 145.0, "stationCount": 494}
+{"date": "2026-08-21", "grade": "petrolSuper", "medianPpl": 162.9, "minPpl": 146.9, "stationCount": 225}
