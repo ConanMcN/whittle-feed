@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-21T10:20:07Z",
+  "generatedAt": "2026-08-21T14:20:09Z",
   "medians": {
     "petrolSuper": 162.9,
     "petrol": 153.9,
@@ -347,8 +347,8 @@
           "changedAt": "2026-08-13T13:40:44Z"
         },
         "diesel": {
-          "ppl": 175.9,
-          "changedAt": "2026-08-12T15:08:29Z"
+          "ppl": 174.9,
+          "changedAt": "2026-08-21T13:10:29Z"
         }
       },
       "stale": false
@@ -1583,8 +1583,8 @@
       },
       "prices": {
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-08-19T14:27:56Z"
+          "ppl": 176.9,
+          "changedAt": "2026-08-21T12:46:35Z"
         }
       },
       "stale": false
@@ -2329,8 +2329,8 @@
           "changedAt": "2026-08-17T14:06:54Z"
         },
         "diesel": {
-          "ppl": 175.9,
-          "changedAt": "2026-08-12T07:45:59Z"
+          "ppl": 176.9,
+          "changedAt": "2026-08-21T11:22:33Z"
         }
       },
       "stale": false
@@ -2864,36 +2864,6 @@
       "stale": false
     },
     {
-      "id": "2209ddde086e4d592add2654c560c648ae0aa1ede5f58b4af4acc58f26cfc11b",
-      "name": "Derrallen Service Station Ltd",
-      "rawName": "Derrallen Service Station Ltd",
-      "brand": "Solo",
-      "postcode": "BT92 3ED",
-      "town": "ENNISKILLEN",
-      "address": "POST OFFICE, 423, DERRYLIN ROAD, CROCKNACREEVY, MACKAN, ENNISKILLEN, BT92 3ED",
-      "lat": 54.2434578,
-      "lon": -7.6239605,
-      "supermarket": true,
-      "motorway": false,
-      "temporaryClosure": false,
-      "hours": {
-        "monday": "24h",
-        "tuesday": "24h",
-        "wednesday": "24h",
-        "thursday": "24h",
-        "friday": "24h",
-        "saturday": "24h",
-        "sunday": "24h"
-      },
-      "prices": {
-        "petrol": {
-          "ppl": 154.9,
-          "changedAt": "2026-07-24T14:37:44Z"
-        }
-      },
-      "stale": true
-    },
-    {
       "id": "2260b3d7e118ec958cfd0745db39127d806106364240203077d3aaab1e24fa94",
       "name": "Kelly's Spar Ballyronan Road",
       "rawName": "Kelly's Spar Ballyronan Road",
@@ -3043,7 +3013,7 @@
           "changedAt": "2026-08-07T12:59:49Z"
         }
       },
-      "stale": false
+      "stale": true
     },
     {
       "id": "243b8bea706d6f1932413fd8a97b271b9856950b5c4a28ff0c85acaec3b0bda6",
@@ -3077,12 +3047,12 @@
           "changedAt": "2026-08-18T16:33:22Z"
         },
         "diesel": {
-          "ppl": 175.9,
-          "changedAt": "2026-08-18T16:33:22Z"
+          "ppl": 176.9,
+          "changedAt": "2026-08-21T11:45:00Z"
         },
         "dieselPremium": {
-          "ppl": 184.9,
-          "changedAt": "2026-08-18T16:33:22Z"
+          "ppl": 185.9,
+          "changedAt": "2026-08-21T11:45:00Z"
         }
       },
       "stale": false
@@ -3305,12 +3275,12 @@
           "changedAt": "2026-08-17T14:16:29Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-08-17T14:16:29Z"
+          "ppl": 175.9,
+          "changedAt": "2026-08-21T11:30:57Z"
         },
         "dieselPremium": {
-          "ppl": 183.9,
-          "changedAt": "2026-08-17T14:16:29Z"
+          "ppl": 184.9,
+          "changedAt": "2026-08-21T11:30:57Z"
         }
       },
       "stale": false
@@ -3911,11 +3881,11 @@
           "changedAt": "2026-06-29T08:50:44Z"
         },
         "diesel": {
-          "ppl": 176.9,
-          "changedAt": "2026-07-25T10:49:20Z"
+          "ppl": 179.9,
+          "changedAt": "2026-08-21T11:45:49Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "308a59c7436744121daf3ce91929f26c496459f6dedb3d9f20de74562b4b3483",
@@ -4589,7 +4559,7 @@
           "changedAt": "2026-08-07T13:58:30Z"
         }
       },
-      "stale": false
+      "stale": true
     },
     {
       "id": "397603c2e46290047d36c590d474b707b90eda1e91175c0a35058bd208d635ab",
@@ -5021,12 +4991,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 157.9,
-          "changedAt": "2026-08-12T09:56:00Z"
+          "ppl": 155.9,
+          "changedAt": "2026-08-21T12:54:13Z"
         },
         "diesel": {
-          "ppl": 177.9,
-          "changedAt": "2026-08-12T09:56:00Z"
+          "ppl": 176.9,
+          "changedAt": "2026-08-21T12:54:13Z"
         }
       },
       "stale": false
@@ -6259,8 +6229,8 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 151.9,
-          "changedAt": "2026-08-12T15:37:42Z"
+          "ppl": 148.9,
+          "changedAt": "2026-08-21T13:10:29Z"
         },
         "diesel": {
           "ppl": 173.9,
@@ -6949,16 +6919,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 161.9,
-          "changedAt": "2026-07-30T09:31:29Z"
+          "ppl": 162.9,
+          "changedAt": "2026-08-21T11:55:45Z"
         },
         "petrol": {
-          "ppl": 152.9,
-          "changedAt": "2026-07-29T14:13:55Z"
+          "ppl": 153.9,
+          "changedAt": "2026-08-21T11:55:45Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-08-17T15:26:50Z"
+          "ppl": 175.9,
+          "changedAt": "2026-08-21T11:55:45Z"
         }
       },
       "stale": false
@@ -7971,15 +7941,15 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 152.9,
-          "changedAt": "2026-07-24T09:36:17Z"
+          "ppl": 154.9,
+          "changedAt": "2026-08-21T10:29:16Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-07-31T09:39:58Z"
+          "ppl": 175.9,
+          "changedAt": "2026-08-21T10:29:16Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "6561c63c8ece696166c5f4e0b6cb1ec5e42c7373258175c53bbf93ff65a07648",
@@ -8396,6 +8366,40 @@
       "stale": false
     },
     {
+      "id": "68db842ae6003beb8502f2ec57732c495d9259dcd13bf6c89b849ba2c4640466",
+      "name": "Jmm Retail Ltd",
+      "rawName": "JMM RETAIL LTD",
+      "brand": "Emo",
+      "postcode": "BT790QW",
+      "town": "Omagh",
+      "address": "64 Curr Road",
+      "lat": 54.523595,
+      "lon": -7.1977897,
+      "supermarket": true,
+      "motorway": false,
+      "temporaryClosure": false,
+      "hours": {
+        "monday": "05:00-22:00",
+        "tuesday": "05:00-22:00",
+        "wednesday": "05:00-22:00",
+        "thursday": "05:00-22:00",
+        "friday": "05:00-22:00",
+        "saturday": "06:00-22:00",
+        "sunday": "07:00-22:00"
+      },
+      "prices": {
+        "petrol": {
+          "ppl": 152.9,
+          "changedAt": "2026-08-21T11:36:32Z"
+        },
+        "diesel": {
+          "ppl": 175.9,
+          "changedAt": "2026-08-21T11:36:32Z"
+        }
+      },
+      "stale": false
+    },
+    {
       "id": "68e9954b130a2b21a51dc87f75f3d3eb755b4d877189aa6bc83f46223918108e",
       "name": "Eurospar Lagan Valley",
       "rawName": "Eurospar Lagan Valley",
@@ -8601,12 +8605,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 153.9,
-          "changedAt": "2026-08-12T08:42:46Z"
+          "ppl": 154.9,
+          "changedAt": "2026-08-21T12:57:58Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-08-14T08:35:22Z"
+          "ppl": 175.9,
+          "changedAt": "2026-08-21T12:57:58Z"
         }
       },
       "stale": false
@@ -8877,8 +8881,8 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 151.9,
-          "changedAt": "2026-08-12T15:46:06Z"
+          "ppl": 148.9,
+          "changedAt": "2026-08-21T13:10:29Z"
         },
         "diesel": {
           "ppl": 173.9,
@@ -9157,20 +9161,20 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 162.9,
-          "changedAt": "2026-08-12T08:45:30Z"
+          "ppl": 163.9,
+          "changedAt": "2026-08-21T11:33:08Z"
         },
         "petrol": {
-          "ppl": 153.9,
-          "changedAt": "2026-08-12T08:45:30Z"
+          "ppl": 154.9,
+          "changedAt": "2026-08-21T11:33:08Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-08-14T09:23:29Z"
+          "ppl": 175.9,
+          "changedAt": "2026-08-21T11:33:08Z"
         },
         "dieselPremium": {
-          "ppl": 183.9,
-          "changedAt": "2026-08-18T13:06:40Z"
+          "ppl": 184.9,
+          "changedAt": "2026-08-21T11:33:08Z"
         }
       },
       "stale": false
@@ -9995,12 +9999,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 153.9,
-          "changedAt": "2026-08-20T08:43:04Z"
+          "ppl": 154.9,
+          "changedAt": "2026-08-21T12:53:48Z"
         },
         "diesel": {
-          "ppl": 177.9,
-          "changedAt": "2026-08-20T08:43:04Z"
+          "ppl": 178.9,
+          "changedAt": "2026-08-21T12:53:48Z"
         }
       },
       "stale": false
@@ -10109,12 +10113,12 @@
           "changedAt": "2026-08-11T15:56:07Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-08-17T14:19:27Z"
+          "ppl": 175.9,
+          "changedAt": "2026-08-21T11:49:29Z"
         },
         "dieselPremium": {
-          "ppl": 183.9,
-          "changedAt": "2026-08-17T14:49:33Z"
+          "ppl": 184.9,
+          "changedAt": "2026-08-21T11:49:29Z"
         }
       },
       "stale": false
@@ -11219,12 +11223,12 @@
           "changedAt": "2026-07-07T07:52:04Z"
         },
         "petrol": {
-          "ppl": 150.9,
-          "changedAt": "2026-08-15T13:50:47Z"
+          "ppl": 152.9,
+          "changedAt": "2026-08-21T14:04:17Z"
         },
         "diesel": {
-          "ppl": 177.9,
-          "changedAt": "2026-08-18T14:32:31Z"
+          "ppl": 178.9,
+          "changedAt": "2026-08-21T14:04:17Z"
         }
       },
       "stale": false
@@ -11409,8 +11413,8 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 149.9,
-          "changedAt": "2026-08-11T08:53:42Z"
+          "ppl": 154.9,
+          "changedAt": "2026-08-21T13:14:04Z"
         },
         "diesel": {
           "ppl": 176.9,
@@ -11829,12 +11833,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 152.9,
-          "changedAt": "2026-08-12T15:08:29Z"
+          "ppl": 151.9,
+          "changedAt": "2026-08-21T13:05:22Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-08-12T15:58:26Z"
+          "ppl": 173.9,
+          "changedAt": "2026-08-21T13:05:22Z"
         }
       },
       "stale": false
@@ -11863,8 +11867,8 @@
       },
       "prices": {
         "diesel": {
-          "ppl": 175.9,
-          "changedAt": "2026-08-13T10:17:00Z"
+          "ppl": 185.9,
+          "changedAt": "2026-08-21T11:06:27Z"
         }
       },
       "stale": false
@@ -12257,12 +12261,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 150.9,
-          "changedAt": "2026-08-11T15:52:22Z"
+          "ppl": 156.9,
+          "changedAt": "2026-08-21T13:55:56Z"
         },
         "diesel": {
-          "ppl": 173.9,
-          "changedAt": "2026-08-11T15:52:22Z"
+          "ppl": 179.9,
+          "changedAt": "2026-08-21T13:55:56Z"
         }
       },
       "stale": false
@@ -12447,8 +12451,8 @@
           "changedAt": "2026-08-13T13:40:44Z"
         },
         "diesel": {
-          "ppl": 172.9,
-          "changedAt": "2026-08-12T15:08:29Z"
+          "ppl": 174.9,
+          "changedAt": "2026-08-21T13:17:14Z"
         }
       },
       "stale": false
@@ -13413,8 +13417,8 @@
           "changedAt": "2026-08-18T14:31:46Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-08-17T14:12:59Z"
+          "ppl": 175.9,
+          "changedAt": "2026-08-21T11:27:47Z"
         }
       },
       "stale": false
@@ -13451,15 +13455,15 @@
           "changedAt": "2026-07-28T13:47:06Z"
         },
         "diesel": {
-          "ppl": 173.9,
-          "changedAt": "2026-07-28T13:47:06Z"
+          "ppl": 176.9,
+          "changedAt": "2026-08-21T14:01:09Z"
         },
         "dieselPremium": {
           "ppl": 188.9,
           "changedAt": "2026-07-28T13:47:06Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "af1ae2b0bc2800869e9921fde33bd876deae412fbb830f71e69a4f7f60340370",
@@ -13637,8 +13641,8 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 152.9,
-          "changedAt": "2026-08-12T15:08:29Z"
+          "ppl": 150.9,
+          "changedAt": "2026-08-21T13:10:29Z"
         },
         "diesel": {
           "ppl": 167.9,
@@ -14001,12 +14005,12 @@
           "changedAt": "2026-08-12T08:48:52Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-08-12T08:48:52Z"
+          "ppl": 176.9,
+          "changedAt": "2026-08-21T12:49:30Z"
         },
         "dieselPremium": {
-          "ppl": 182.9,
-          "changedAt": "2026-08-12T08:48:52Z"
+          "ppl": 184.9,
+          "changedAt": "2026-08-21T12:49:30Z"
         }
       },
       "stale": false
@@ -14741,16 +14745,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 162.9,
-          "changedAt": "2026-08-17T15:17:46Z"
+          "ppl": 163.9,
+          "changedAt": "2026-08-21T11:17:12Z"
         },
         "petrol": {
-          "ppl": 153.9,
-          "changedAt": "2026-08-17T15:17:46Z"
+          "ppl": 154.9,
+          "changedAt": "2026-08-21T11:17:12Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-08-14T08:35:12Z"
+          "ppl": 175.9,
+          "changedAt": "2026-08-21T11:17:12Z"
         }
       },
       "stale": false
@@ -15801,15 +15805,15 @@
           "changedAt": "2026-07-30T16:42:26Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-07-30T16:42:26Z"
+          "ppl": 178.9,
+          "changedAt": "2026-08-21T10:42:54Z"
         },
         "dieselPremium": {
-          "ppl": 181.9,
-          "changedAt": "2026-07-30T16:42:26Z"
+          "ppl": 185.9,
+          "changedAt": "2026-08-21T10:42:54Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "c85be10f6b5423a45c6919129f1187e162a17fdc929ca71779eb380421441baf",
@@ -15848,6 +15852,36 @@
         }
       },
       "stale": true
+    },
+    {
+      "id": "c8c7dbf36d2a908bdafec0120dc5023922d017afbe1513ca5096639b5105bd56",
+      "name": "J & R Fuels Ltd",
+      "rawName": "J & R Fuels Ltd",
+      "brand": "J & R Fuels Ltd",
+      "postcode": "BT43 7HF",
+      "town": "BALLYMENA",
+      "address": "43, CARNLOUGH ROAD, BROUGHSHANE, BALLYMENA, BT43 7HF",
+      "lat": 54.8981725,
+      "lon": -6.1798375,
+      "supermarket": false,
+      "motorway": false,
+      "temporaryClosure": false,
+      "hours": {
+        "monday": "07:00-19:00",
+        "tuesday": "07:00-19:00",
+        "wednesday": "07:00-19:00",
+        "thursday": "07:00-19:00",
+        "friday": "07:00-19:00",
+        "saturday": "07:00-18:00",
+        "sunday": "00:00-00:00"
+      },
+      "prices": {
+        "diesel": {
+          "ppl": 173.9,
+          "changedAt": "2026-08-21T11:52:26Z"
+        }
+      },
+      "stale": false
     },
     {
       "id": "c8ee55522e313b3b1e73a14b2b0ed4b8cf0c05805c742e296323237f28d231d3",
@@ -17513,15 +17547,15 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 152.9,
-          "changedAt": "2026-07-24T09:41:00Z"
+          "ppl": 154.9,
+          "changedAt": "2026-08-21T10:21:37Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-07-31T09:38:17Z"
+          "ppl": 175.9,
+          "changedAt": "2026-08-21T10:21:37Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "df9bc051358f76efa1c65f93800b43831e894a57f06c82f01ee965b571f3605c",
@@ -17581,12 +17615,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 152.9,
-          "changedAt": "2026-08-13T13:40:44Z"
+          "ppl": 150.9,
+          "changedAt": "2026-08-21T13:05:22Z"
         },
         "diesel": {
-          "ppl": 170.9,
-          "changedAt": "2026-08-12T15:08:29Z"
+          "ppl": 169.9,
+          "changedAt": "2026-08-21T13:05:22Z"
         }
       },
       "stale": false
@@ -17725,20 +17759,20 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 162.9,
-          "changedAt": "2026-08-12T08:35:31Z"
+          "ppl": 163.9,
+          "changedAt": "2026-08-21T12:47:12Z"
         },
         "petrol": {
-          "ppl": 153.9,
-          "changedAt": "2026-08-12T08:35:31Z"
+          "ppl": 154.9,
+          "changedAt": "2026-08-21T12:47:12Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-08-14T09:28:39Z"
+          "ppl": 175.9,
+          "changedAt": "2026-08-21T12:47:12Z"
         },
         "dieselPremium": {
-          "ppl": 183.9,
-          "changedAt": "2026-08-14T09:28:39Z"
+          "ppl": 184.9,
+          "changedAt": "2026-08-21T12:47:12Z"
         }
       },
       "stale": false
@@ -19131,20 +19165,20 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 161.9,
-          "changedAt": "2026-08-12T08:48:04Z"
+          "ppl": 159.9,
+          "changedAt": "2026-08-21T12:47:33Z"
         },
         "petrol": {
-          "ppl": 153.9,
-          "changedAt": "2026-08-12T08:48:04Z"
+          "ppl": 151.9,
+          "changedAt": "2026-08-21T12:47:33Z"
         },
         "diesel": {
-          "ppl": 175.9,
-          "changedAt": "2026-08-19T14:29:25Z"
+          "ppl": 178.9,
+          "changedAt": "2026-08-21T12:47:33Z"
         },
         "dieselPremium": {
-          "ppl": 183.9,
-          "changedAt": "2026-08-19T14:29:25Z"
+          "ppl": 186.9,
+          "changedAt": "2026-08-21T12:47:33Z"
         }
       },
       "stale": false
@@ -20005,6 +20039,40 @@
         "diesel": {
           "ppl": 179.9,
           "changedAt": "2026-08-20T08:48:36Z"
+        }
+      },
+      "stale": false
+    },
+    {
+      "id": "fd68032e4bbfe711019d242cfa92fff1f338eb0110bff7e1f0aa2690181c12df",
+      "name": "R I Duncan - Bridge End Filling Station",
+      "rawName": "R I Duncan - Bridge End Filling Station",
+      "brand": "R I Duncan - Bridge End Filling Station",
+      "postcode": "BT78 4SB",
+      "town": "OMAGH",
+      "address": "POST OFFICE, 2, MAIN STREET, DRUMQUIN, OMAGH, BT78 4SB",
+      "lat": 54.6167186,
+      "lon": -7.4909058,
+      "supermarket": true,
+      "motorway": false,
+      "temporaryClosure": false,
+      "hours": {
+        "monday": "07:00-21:00",
+        "tuesday": "07:00-21:00",
+        "wednesday": "07:00-21:00",
+        "thursday": "07:00-21:00",
+        "friday": "07:00-22:00",
+        "saturday": "07:00-22:00",
+        "sunday": "09:00-19:00"
+      },
+      "prices": {
+        "petrol": {
+          "ppl": 157.9,
+          "changedAt": "2026-08-21T11:54:30Z"
+        },
+        "diesel": {
+          "ppl": 183.9,
+          "changedAt": "2026-08-21T11:54:30Z"
         }
       },
       "stale": false
