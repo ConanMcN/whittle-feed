@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-22T10:20:11Z",
+  "generatedAt": "2026-08-22T14:20:11Z",
   "medians": {
     "petrolSuper": 162.9,
     "petrol": 153.9,
@@ -9033,8 +9033,8 @@
           "changedAt": "2026-07-20T13:25:41Z"
         },
         "diesel": {
-          "ppl": 172.9,
-          "changedAt": "2026-08-19T08:47:45Z"
+          "ppl": 174.9,
+          "changedAt": "2026-08-22T14:11:42Z"
         }
       },
       "stale": false
@@ -10629,11 +10629,11 @@
           "changedAt": "2026-07-26T09:13:36Z"
         },
         "diesel": {
-          "ppl": 173.9,
-          "changedAt": "2026-08-06T07:55:29Z"
+          "ppl": 175.9,
+          "changedAt": "2026-08-22T11:01:58Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "8555fe3caf972860ee89b38802629aacbced24a7bbd8082fab9a0f2bcb0ca6fd",
@@ -18161,8 +18161,8 @@
           "changedAt": "2026-08-17T14:38:05Z"
         },
         "diesel": {
-          "ppl": 176.9,
-          "changedAt": "2026-08-17T14:38:05Z"
+          "ppl": 179.9,
+          "changedAt": "2026-08-22T14:00:34Z"
         }
       },
       "stale": false
