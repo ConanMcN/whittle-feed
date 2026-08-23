@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T15:52:49Z",
+  "generatedAt": "2026-08-23T23:54:04Z",
   "benchmarkKWh": 3200,
   "vatRate": 0.05,
   "suppliers": [
@@ -42,7 +42,7 @@
       "phone": "0808 304 9870",
       "switchURL": "https://share-energy.com/",
       "regulated": false,
-      "note": "Share Energy publishes no rates publicly — they are quoted inside the sign-up flow. Listed but not priced."
+      "note": "Rates read from /residential and treated as inclusive of 5% VAT until Share confirm the basis."
     }
   ],
   "tariffs": [
@@ -1729,14 +1729,16 @@
       "sourceURL": "https://powerni.co.uk/compare-electricity-ni/unit-rates/"
     },
     {
-      "id": "share-energy/standard",
+      "id": "share-energy/24-credit",
       "supplier": "share-energy",
-      "name": "Home Electricity",
+      "name": "Share 24 Credit",
       "meter": "24hr",
       "payment": "any",
       "billing": "n/a",
-      "rates": {},
-      "standingCharge": null,
+      "rates": {
+        "anytime": 24.09
+      },
+      "standingCharge": 12.7,
       "bandWindows": null,
       "term": {
         "months": null,
@@ -1748,9 +1750,151 @@
       "discountCap": null,
       "keypadReward": null,
       "effectiveFrom": "2026-04-01",
-      "confirmedAt": "2026-08-23T15:52:49Z",
-      "provenance": "unpublished",
-      "sourceURL": "https://share-energy.com/"
+      "confirmedAt": "2026-08-23T23:54:04Z",
+      "provenance": "primary",
+      "sourceURL": "https://share-energy.com/residential"
+    },
+    {
+      "id": "share-energy/24-keypad",
+      "supplier": "share-energy",
+      "name": "Share 24 Keypad",
+      "meter": "24hr",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {
+        "anytime": 24.09
+      },
+      "standingCharge": 15.88,
+      "bandWindows": null,
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-08-23T23:54:04Z",
+      "provenance": "primary",
+      "sourceURL": "https://share-energy.com/residential"
+    },
+    {
+      "id": "share-energy/eco7",
+      "supplier": "share-energy",
+      "name": "Share Eco 7",
+      "meter": "economy7",
+      "payment": "any",
+      "billing": "n/a",
+      "rates": {
+        "day": 27.24,
+        "night": 13.23,
+        "heat": 13.23
+      },
+      "standingCharge": 12.7,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-08-23T23:54:04Z",
+      "provenance": "primary",
+      "sourceURL": "https://share-energy.com/residential"
+    },
+    {
+      "id": "share-energy/eco7-keypad",
+      "supplier": "share-energy",
+      "name": "Share Eco 7 Keypad",
+      "meter": "economy7",
+      "payment": "keypad",
+      "billing": "n/a",
+      "rates": {
+        "day": 27.24,
+        "night": 13.23,
+        "heat": 13.23
+      },
+      "standingCharge": 15.88,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-08-23T23:54:04Z",
+      "provenance": "primary",
+      "sourceURL": "https://share-energy.com/residential"
+    },
+    {
+      "id": "share-energy/ev",
+      "supplier": "share-energy",
+      "name": "Share EV",
+      "meter": "ev-nightshift",
+      "payment": "any",
+      "billing": "n/a",
+      "rates": {
+        "day": 27.24,
+        "night": 13.23
+      },
+      "standingCharge": 12.7,
+      "bandWindows": [
+        {
+          "band": "night",
+          "winter": "01:00-08:00",
+          "summer": "02:00-09:00"
+        },
+        {
+          "band": "day",
+          "winter": "08:00-01:00",
+          "summer": "09:00-02:00"
+        }
+      ],
+      "term": {
+        "months": null,
+        "exitFee": 0.0,
+        "revertsTo": null
+      },
+      "availability": "both",
+      "incentives": [],
+      "discountCap": null,
+      "keypadReward": null,
+      "effectiveFrom": "2026-04-01",
+      "confirmedAt": "2026-08-23T23:54:04Z",
+      "provenance": "primary",
+      "sourceURL": "https://share-energy.com/residential"
     },
     {
       "supplier": "sse-airtricity",
