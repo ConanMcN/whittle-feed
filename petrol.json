@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T06:20:05Z",
+  "generatedAt": "2026-08-23T10:20:08Z",
   "medians": {
     "petrolSuper": 162.9,
     "petrol": 153.9,
@@ -14609,11 +14609,11 @@
           "changedAt": "2026-07-20T22:01:27Z"
         },
         "diesel": {
-          "ppl": 176.9,
-          "changedAt": "2026-07-29T21:49:13Z"
+          "ppl": 179.9,
+          "changedAt": "2026-08-23T06:36:06Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "beb9e99fab4d3665f95308e4b6851c3b2b9131cf997f320294850a0bcc423b38",
