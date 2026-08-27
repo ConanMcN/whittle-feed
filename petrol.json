@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-27T06:20:09Z",
+  "generatedAt": "2026-08-27T10:20:08Z",
   "medians": {
     "petrolSuper": 162.9,
     "petrol": 154.9,
@@ -2709,11 +2709,11 @@
           "changedAt": "2026-08-04T13:45:29Z"
         },
         "diesel": {
-          "ppl": 179.9,
-          "changedAt": "2026-08-04T13:45:29Z"
+          "ppl": 182.9,
+          "changedAt": "2026-08-27T08:39:59Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "1fb1e16f6e5d52e3767195926d2460a19d88f68c1e54a8860547064856cd043a",
@@ -3513,15 +3513,15 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 159.9,
-          "changedAt": "2026-06-24T15:18:25Z"
+          "ppl": 163.9,
+          "changedAt": "2026-08-27T09:59:12Z"
         },
         "diesel": {
-          "ppl": 179.9,
-          "changedAt": "2026-06-24T15:18:25Z"
+          "ppl": 177.9,
+          "changedAt": "2026-08-27T09:59:12Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "2947ed5f9fdde787862b360a204edd8e0fc72fccd0d3cee5c79ff775c5bef904",
@@ -3919,7 +3919,7 @@
           "changedAt": "2026-08-04T13:31:51Z"
         }
       },
-      "stale": false
+      "stale": true
     },
     {
       "id": "304f641a230ceecd25f17b19361e797b0d09c53066dbef9478146003a9256919",
@@ -8035,12 +8035,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 154.9,
-          "changedAt": "2026-08-20T08:35:54Z"
+          "ppl": 152.9,
+          "changedAt": "2026-08-27T07:30:51Z"
         },
         "diesel": {
-          "ppl": 175.9,
-          "changedAt": "2026-08-20T08:35:54Z"
+          "ppl": 174.9,
+          "changedAt": "2026-08-27T07:30:51Z"
         }
       },
       "stale": false
@@ -9847,7 +9847,7 @@
           "changedAt": "2026-08-13T09:57:23Z"
         }
       },
-      "stale": false
+      "stale": true
     },
     {
       "id": "78dd6cd8f6dc79c4138d01853505f6c9bb489d2c5bfa46fa469765f1abd083d5",
@@ -10651,15 +10651,15 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 165.9,
-          "changedAt": "2026-07-29T11:38:56Z"
+          "ppl": 166.9,
+          "changedAt": "2026-08-27T09:08:53Z"
         },
         "dieselPremium": {
-          "ppl": 176.9,
-          "changedAt": "2026-07-30T14:18:23Z"
+          "ppl": 178.9,
+          "changedAt": "2026-08-27T09:08:53Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "83bc0bb36108a9c30769756dea8b221527b1568c4f499265eb97a43d8423b7a2",
@@ -16224,6 +16224,40 @@
       "stale": false
     },
     {
+      "id": "caf25b18f0d9762882ee2a2fefd69a2a9c5293fbc358c5eb29c8e5ec672a7c5f",
+      "name": "Aughrim Filling Station",
+      "rawName": "AUGHRIM FILLING STATION",
+      "brand": "Aughrim Filling Station",
+      "postcode": "BT45 8HB",
+      "town": "MAGHERAFELT",
+      "address": "137, AUGHRIM ROAD, CASTLEDAWSON, MAGHERAFELT, BT45 8HB",
+      "lat": 54.7525946,
+      "lon": -6.5310934,
+      "supermarket": false,
+      "motorway": false,
+      "temporaryClosure": false,
+      "hours": {
+        "monday": "24h",
+        "tuesday": "24h",
+        "wednesday": "24h",
+        "thursday": "24h",
+        "friday": "24h",
+        "saturday": "24h",
+        "sunday": "24h"
+      },
+      "prices": {
+        "petrol": {
+          "ppl": 166.9,
+          "changedAt": "2026-08-27T10:11:31Z"
+        },
+        "diesel": {
+          "ppl": 179.9,
+          "changedAt": "2026-08-27T10:11:31Z"
+        }
+      },
+      "stale": false
+    },
+    {
       "id": "cb8a2c04231b60d8851b155ea7ba2e6c3cb623a388c8604a4178ac03b3bf9658",
       "name": "Toner Fuels",
       "rawName": "TONER FUELS",
@@ -17055,11 +17089,11 @@
           "changedAt": "2026-08-01T11:44:04Z"
         },
         "diesel": {
-          "ppl": 175.9,
-          "changedAt": "2026-08-01T11:44:04Z"
+          "ppl": 178.9,
+          "changedAt": "2026-08-27T09:27:56Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "d3cdc2337936fe81fc15283f0643b0965e1da5d2bce85c47f0ba4c38ec3b7742",
