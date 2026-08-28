@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-28T06:20:08Z",
+  "generatedAt": "2026-08-28T10:20:10Z",
   "medians": {
     "petrolSuper": 162.9,
     "petrol": 154.9,
@@ -791,8 +791,8 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 154.9,
-          "changedAt": "2026-08-19T12:03:57Z"
+          "ppl": 156.9,
+          "changedAt": "2026-08-28T07:51:19Z"
         },
         "diesel": {
           "ppl": 179.9,
@@ -855,15 +855,15 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 158.9,
-          "changedAt": "2026-06-22T08:40:25Z"
+          "ppl": 165.9,
+          "changedAt": "2026-08-28T08:07:57Z"
         },
         "diesel": {
           "ppl": 177.9,
           "changedAt": "2026-07-21T17:14:49Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "0cf6eb3dec65eede1ac6b08357726065df3c0a1290922ad10388c24e19a249bf",
@@ -5611,12 +5611,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 153.9,
-          "changedAt": "2026-08-15T07:03:39Z"
+          "ppl": 154.9,
+          "changedAt": "2026-08-28T08:15:28Z"
         },
         "dieselPremium": {
-          "ppl": 174.9,
-          "changedAt": "2026-08-15T07:04:59Z"
+          "ppl": 182.9,
+          "changedAt": "2026-08-28T08:15:28Z"
         }
       },
       "stale": false
@@ -6005,8 +6005,8 @@
           "changedAt": "2026-08-24T08:22:02Z"
         },
         "diesel": {
-          "ppl": 178.9,
-          "changedAt": "2026-08-24T08:22:02Z"
+          "ppl": 175.9,
+          "changedAt": "2026-08-28T08:15:55Z"
         }
       },
       "stale": false
@@ -6509,12 +6509,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 154.9,
-          "changedAt": "2026-08-20T08:12:23Z"
+          "ppl": 158.9,
+          "changedAt": "2026-08-28T06:44:52Z"
         },
         "diesel": {
-          "ppl": 181.9,
-          "changedAt": "2026-08-20T08:12:23Z"
+          "ppl": 176.9,
+          "changedAt": "2026-08-28T06:44:52Z"
         }
       },
       "stale": false
@@ -9779,7 +9779,7 @@
           "changedAt": "2026-08-14T09:44:39Z"
         }
       },
-      "stale": false
+      "stale": true
     },
     {
       "id": "78c552019ce7b28f6a1aa35e57b9c157494c84a57b278fad58e064ba9641f017",
@@ -9873,12 +9873,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 151.9,
-          "changedAt": "2026-08-26T10:43:54Z"
+          "ppl": 153.9,
+          "changedAt": "2026-08-28T07:39:19Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-08-21T07:40:49Z"
+          "ppl": 175.9,
+          "changedAt": "2026-08-28T07:39:30Z"
         }
       },
       "stale": false
@@ -10293,6 +10293,40 @@
         "dieselPremium": {
           "ppl": 180.9,
           "changedAt": "2026-08-17T09:03:05Z"
+        }
+      },
+      "stale": false
+    },
+    {
+      "id": "7f5d6b4d59d19806b4d11947e8b2cbec905c61f9b2b57cd2132b7396b105d03b",
+      "name": "McGuigans Garage",
+      "rawName": "McGuigans Garage",
+      "brand": "McGuigans Garage",
+      "postcode": "BT46 5QB",
+      "town": "MAGHERA",
+      "address": "MCGUIGANS GARAGE, 6, MAIN STREET, SWATRAGH, MAGHERA, BT46 5QB",
+      "lat": 54.9092831,
+      "lon": -6.6638301,
+      "supermarket": false,
+      "motorway": false,
+      "temporaryClosure": false,
+      "hours": {
+        "monday": "08:00-18:00",
+        "tuesday": "08:00-18:00",
+        "wednesday": "08:00-18:00",
+        "thursday": "08:00-18:00",
+        "friday": "08:00-18:00",
+        "saturday": "08:00-14:00",
+        "sunday": "00:00-00:00"
+      },
+      "prices": {
+        "petrolSuper": {
+          "ppl": 169.9,
+          "changedAt": "2026-08-28T08:59:27Z"
+        },
+        "dieselPremium": {
+          "ppl": 179.9,
+          "changedAt": "2026-08-28T08:59:27Z"
         }
       },
       "stale": false
@@ -11427,20 +11461,20 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 161.9,
-          "changedAt": "2026-08-17T09:03:05Z"
+          "ppl": 157.9,
+          "changedAt": "2026-08-28T09:48:00Z"
         },
         "petrol": {
-          "ppl": 151.9,
-          "changedAt": "2026-08-17T09:03:05Z"
+          "ppl": 147.9,
+          "changedAt": "2026-08-28T09:48:00Z"
         },
         "diesel": {
-          "ppl": 173.9,
-          "changedAt": "2026-08-17T09:03:05Z"
+          "ppl": 164.9,
+          "changedAt": "2026-08-28T09:48:00Z"
         },
         "dieselPremium": {
-          "ppl": 180.9,
-          "changedAt": "2026-08-17T09:03:05Z"
+          "ppl": 171.9,
+          "changedAt": "2026-08-28T09:48:00Z"
         }
       },
       "stale": false
@@ -14661,20 +14695,20 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 161.9,
-          "changedAt": "2026-08-19T14:50:52Z"
+          "ppl": 162.9,
+          "changedAt": "2026-08-28T07:44:34Z"
         },
         "petrol": {
           "ppl": 154.9,
           "changedAt": "2026-08-19T14:50:52Z"
         },
         "diesel": {
-          "ppl": 177.9,
-          "changedAt": "2026-08-19T14:50:52Z"
+          "ppl": 178.9,
+          "changedAt": "2026-08-28T07:44:34Z"
         },
         "dieselPremium": {
-          "ppl": 184.9,
-          "changedAt": "2026-08-19T14:50:52Z"
+          "ppl": 185.9,
+          "changedAt": "2026-08-28T07:44:34Z"
         }
       },
       "stale": false
@@ -15649,15 +15683,15 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 150.9,
-          "changedAt": "2026-07-27T08:17:22Z"
+          "ppl": 154.9,
+          "changedAt": "2026-08-28T09:30:59Z"
         },
         "diesel": {
           "ppl": 174.9,
           "changedAt": "2026-07-27T08:17:22Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "c6140ca0a1607f1731f2fecc1c74aa2b331e8f24a71c27e115b7bd7e405059e7",
@@ -16145,8 +16179,8 @@
       },
       "prices": {
         "diesel": {
-          "ppl": 177.9,
-          "changedAt": "2026-08-25T07:02:45Z"
+          "ppl": 175.5,
+          "changedAt": "2026-08-28T07:46:51Z"
         }
       },
       "stale": false
