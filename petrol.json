@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-30T10:20:09Z",
+  "generatedAt": "2026-08-30T14:20:30Z",
   "medians": {
     "petrolSuper": 163.4,
     "petrol": 154.9,
@@ -20043,7 +20043,7 @@
           "changedAt": "2026-08-16T13:39:32Z"
         }
       },
-      "stale": false
+      "stale": true
     },
     {
       "id": "fabbe55e619caa3ffeff0089b0b0d5efe8eba5842364de66e4a94b31d082d3da",
