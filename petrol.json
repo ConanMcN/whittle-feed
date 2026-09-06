@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-06T06:20:09Z",
+  "generatedAt": "2026-09-06T10:33:01Z",
   "medians": {
     "petrolSuper": 164.9,
     "petrol": 156.9,
@@ -2482,40 +2482,6 @@
         }
       },
       "stale": true
-    },
-    {
-      "id": "1d1e3febba35c558818b51a40508e2ee4a1c84d195c1d147625426f686ebf1c6",
-      "name": "Deansbridge supermarket limited",
-      "rawName": "Deansbridge supermarket limited",
-      "brand": "Texaco",
-      "postcode": "BT61 9DF",
-      "town": "ARMAGH",
-      "address": "DEANSBRIDGE FILLING STATION, COLLEGE HILL, ARMAGH, BT61 9DF",
-      "lat": 54.35277,
-      "lon": -6.6404509,
-      "supermarket": true,
-      "motorway": false,
-      "temporaryClosure": false,
-      "hours": {
-        "monday": "06:30-22:00",
-        "tuesday": "06:30-22:00",
-        "wednesday": "06:30-22:00",
-        "thursday": "06:30-22:00",
-        "friday": "06:30-22:00",
-        "saturday": "07:00-22:00",
-        "sunday": "07:00-22:00"
-      },
-      "prices": {
-        "petrol": {
-          "ppl": 159.9,
-          "changedAt": "2026-09-03T05:39:29Z"
-        },
-        "diesel": {
-          "ppl": 179.9,
-          "changedAt": "2026-08-24T05:24:37Z"
-        }
-      },
-      "stale": false
     },
     {
       "id": "1d262b4653954452da206f661facf54e22c7a6692f1e259f2978d286c71badf0",
@@ -5687,8 +5653,8 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 154.9,
-          "changedAt": "2026-08-28T08:15:28Z"
+          "ppl": 155.9,
+          "changedAt": "2026-09-06T07:52:43Z"
         },
         "dieselPremium": {
           "ppl": 182.9,
@@ -9983,12 +9949,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 153.9,
-          "changedAt": "2026-08-28T07:39:19Z"
+          "ppl": 154.9,
+          "changedAt": "2026-09-06T07:48:30Z"
         },
         "diesel": {
-          "ppl": 175.9,
-          "changedAt": "2026-08-28T07:39:30Z"
+          "ppl": 177.9,
+          "changedAt": "2026-09-06T07:48:46Z"
         }
       },
       "stale": false
@@ -10017,12 +9983,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 155.9,
-          "changedAt": "2026-08-28T05:17:50Z"
+          "ppl": 158.9,
+          "changedAt": "2026-09-06T06:43:02Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-08-19T05:14:52Z"
+          "ppl": 182.9,
+          "changedAt": "2026-09-06T06:43:02Z"
         }
       },
       "stale": false
@@ -11833,12 +11799,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 158.7,
-          "changedAt": "2026-09-04T09:37:30Z"
+          "ppl": 165.7,
+          "changedAt": "2026-09-06T08:59:10Z"
         },
         "diesel": {
-          "ppl": 178.7,
-          "changedAt": "2026-09-04T09:37:30Z"
+          "ppl": 185.7,
+          "changedAt": "2026-09-06T08:59:10Z"
         }
       },
       "stale": false
@@ -17055,8 +17021,8 @@
           "changedAt": "2026-09-03T10:52:35Z"
         },
         "diesel": {
-          "ppl": 179.9,
-          "changedAt": "2026-09-03T10:52:35Z"
+          "ppl": 177.9,
+          "changedAt": "2026-09-06T09:54:30Z"
         }
       },
       "stale": false
@@ -20145,12 +20111,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 159.9,
-          "changedAt": "2026-08-31T15:05:53Z"
+          "ppl": 164.9,
+          "changedAt": "2026-09-06T09:03:08Z"
         },
         "diesel": {
-          "ppl": 179.9,
-          "changedAt": "2026-08-16T13:39:32Z"
+          "ppl": 186.9,
+          "changedAt": "2026-09-06T09:03:08Z"
         }
       },
       "stale": false
