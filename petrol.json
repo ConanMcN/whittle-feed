@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-10T14:20:12Z",
+  "generatedAt": "2026-09-11T06:20:09Z",
   "medians": {
-    "petrolSuper": 171.9,
+    "petrolSuper": 172.45,
     "petrol": 163.9,
     "diesel": 184.9,
-    "dieselPremium": 191.9,
+    "dieselPremium": 192.9,
     "hvo": 229.9
   },
   "withheld": [
@@ -101,12 +101,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         }
       },
       "stale": false
@@ -317,12 +317,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-09T09:35:03Z"
+          "ppl": 163.9,
+          "changedAt": "2026-09-10T15:05:02Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-09T09:35:03Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:05:02Z"
         }
       },
       "stale": false
@@ -419,20 +419,20 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 160.9,
-          "changedAt": "2026-09-02T11:02:01Z"
+          "ppl": 161.9,
+          "changedAt": "2026-09-10T15:42:00Z"
         },
         "petrol": {
-          "ppl": 150.9,
-          "changedAt": "2026-09-02T11:02:01Z"
+          "ppl": 151.9,
+          "changedAt": "2026-09-10T15:42:00Z"
         },
         "diesel": {
-          "ppl": 168.9,
-          "changedAt": "2026-09-02T11:02:01Z"
+          "ppl": 170.9,
+          "changedAt": "2026-09-10T15:42:00Z"
         },
         "dieselPremium": {
-          "ppl": 175.9,
-          "changedAt": "2026-09-02T11:02:01Z"
+          "ppl": 177.9,
+          "changedAt": "2026-09-10T15:42:00Z"
         },
         "hvo": {
           "ppl": 229.9,
@@ -1033,12 +1033,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 154.7,
-          "changedAt": "2026-09-02T13:04:38Z"
+          "ppl": 156.7,
+          "changedAt": "2026-09-10T14:42:00Z"
         },
         "diesel": {
-          "ppl": 177.7,
-          "changedAt": "2026-09-08T14:03:22Z"
+          "ppl": 179.7,
+          "changedAt": "2026-09-10T14:42:00Z"
         }
       },
       "stale": false
@@ -1101,20 +1101,20 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 169.9,
-          "changedAt": "2026-09-09T09:32:54Z"
+          "ppl": 171.9,
+          "changedAt": "2026-09-10T15:33:59Z"
         },
         "petrol": {
-          "ppl": 163.9,
-          "changedAt": "2026-09-09T09:17:53Z"
+          "ppl": 165.9,
+          "changedAt": "2026-09-10T15:33:59Z"
         },
         "diesel": {
-          "ppl": 184.9,
-          "changedAt": "2026-09-09T12:18:02Z"
+          "ppl": 186.9,
+          "changedAt": "2026-09-10T15:33:59Z"
         },
         "dieselPremium": {
-          "ppl": 190.9,
-          "changedAt": "2026-09-09T09:32:54Z"
+          "ppl": 192.9,
+          "changedAt": "2026-09-10T15:33:59Z"
         }
       },
       "stale": false
@@ -1185,12 +1185,12 @@
           "changedAt": "2026-08-14T15:23:25Z"
         },
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-09T09:35:03Z"
+          "ppl": 163.9,
+          "changedAt": "2026-09-10T15:05:02Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-09T09:35:03Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:05:02Z"
         }
       },
       "stale": false
@@ -1257,12 +1257,12 @@
           "changedAt": "2026-09-10T11:23:02Z"
         },
         "petrol": {
-          "ppl": 159.9,
-          "changedAt": "2026-09-10T11:23:02Z"
+          "ppl": 161.9,
+          "changedAt": "2026-09-10T14:57:43Z"
         },
         "diesel": {
-          "ppl": 179.9,
-          "changedAt": "2026-09-10T11:23:02Z"
+          "ppl": 183.9,
+          "changedAt": "2026-09-10T14:57:43Z"
         }
       },
       "stale": false
@@ -1333,12 +1333,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 162.9,
-          "changedAt": "2026-09-09T05:16:48Z"
+          "ppl": 164.9,
+          "changedAt": "2026-09-11T05:57:06Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-04T05:48:18Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-11T05:57:06Z"
         }
       },
       "stale": false
@@ -1723,12 +1723,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 163.9,
-          "changedAt": "2026-09-09T10:10:11Z"
+          "ppl": 164.9,
+          "changedAt": "2026-09-10T15:11:26Z"
         },
         "diesel": {
-          "ppl": 184.9,
-          "changedAt": "2026-09-09T10:10:11Z"
+          "ppl": 186.9,
+          "changedAt": "2026-09-10T15:11:26Z"
         }
       },
       "stale": false
@@ -1757,12 +1757,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 163.9,
-          "changedAt": "2026-09-09T09:51:35Z"
+          "ppl": 165.9,
+          "changedAt": "2026-09-10T15:10:53Z"
         },
         "diesel": {
-          "ppl": 184.9,
-          "changedAt": "2026-09-09T09:51:35Z"
+          "ppl": 186.9,
+          "changedAt": "2026-09-10T15:10:53Z"
         }
       },
       "stale": false
@@ -1825,8 +1825,8 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 163.9,
-          "changedAt": "2026-09-09T09:48:04Z"
+          "ppl": 164.9,
+          "changedAt": "2026-09-10T15:11:16Z"
         },
         "diesel": {
           "ppl": 184.9,
@@ -2037,16 +2037,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 169.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 174.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "petrol": {
-          "ppl": 159.9,
-          "changedAt": "2026-09-04T16:48:38Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 182.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         }
       },
       "stale": false
@@ -2283,16 +2283,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 164.9,
-          "changedAt": "2026-07-23T14:56:13Z"
+          "ppl": 176.9,
+          "changedAt": "2026-09-10T17:10:27Z"
         },
         "petrol": {
-          "ppl": 154.9,
-          "changedAt": "2026-07-23T14:56:13Z"
+          "ppl": 165.9,
+          "changedAt": "2026-09-10T17:10:27Z"
         },
         "diesel": {
-          "ppl": 178.9,
-          "changedAt": "2026-08-31T16:00:55Z"
+          "ppl": 188.9,
+          "changedAt": "2026-09-10T17:10:27Z"
         }
       },
       "stale": false
@@ -2363,16 +2363,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 166.9,
-          "changedAt": "2026-09-08T22:11:34Z"
+          "ppl": 169.9,
+          "changedAt": "2026-09-10T22:06:51Z"
         },
         "petrol": {
-          "ppl": 154.9,
-          "changedAt": "2026-09-08T22:11:34Z"
+          "ppl": 157.9,
+          "changedAt": "2026-09-10T22:06:51Z"
         },
         "diesel": {
-          "ppl": 173.9,
-          "changedAt": "2026-09-08T22:11:34Z"
+          "ppl": 176.9,
+          "changedAt": "2026-09-10T22:06:51Z"
         }
       },
       "stale": false
@@ -2469,12 +2469,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 154.9,
-          "changedAt": "2026-09-08T22:04:30Z"
+          "ppl": 157.9,
+          "changedAt": "2026-09-10T22:06:51Z"
         },
         "diesel": {
-          "ppl": 171.9,
-          "changedAt": "2026-09-08T22:04:30Z"
+          "ppl": 174.9,
+          "changedAt": "2026-09-10T22:06:51Z"
         }
       },
       "stale": false
@@ -2617,20 +2617,20 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 167.9,
-          "changedAt": "2026-09-09T15:21:44Z"
+          "ppl": 170.9,
+          "changedAt": "2026-09-10T15:10:02Z"
         },
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-09T09:50:54Z"
+          "ppl": 164.9,
+          "changedAt": "2026-09-10T15:10:02Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-09T09:50:54Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:10:02Z"
         },
         "dieselPremium": {
-          "ppl": 189.9,
-          "changedAt": "2026-09-09T09:50:54Z"
+          "ppl": 190.9,
+          "changedAt": "2026-09-10T15:10:02Z"
         }
       },
       "stale": false
@@ -2993,19 +2993,19 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 168.9,
-          "changedAt": "2026-08-19T19:24:31Z"
+          "ppl": 178.9,
+          "changedAt": "2026-09-10T19:40:44Z"
         },
         "petrol": {
-          "ppl": 159.9,
-          "changedAt": "2026-08-19T19:24:31Z"
+          "ppl": 164.9,
+          "changedAt": "2026-09-10T19:40:44Z"
         },
         "diesel": {
-          "ppl": 179.9,
-          "changedAt": "2026-08-19T19:24:31Z"
+          "ppl": 188.9,
+          "changedAt": "2026-09-10T19:40:44Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "2209ddde086e4d592add2654c560c648ae0aa1ede5f58b4af4acc58f26cfc11b",
@@ -3301,12 +3301,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-09T09:35:04Z"
+          "ppl": 163.9,
+          "changedAt": "2026-09-10T15:05:03Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-09T09:35:04Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:05:03Z"
         }
       },
       "stale": false
@@ -3707,8 +3707,8 @@
           "changedAt": "2026-09-09T12:31:03Z"
         },
         "diesel": {
-          "ppl": 186.9,
-          "changedAt": "2026-09-09T12:31:03Z"
+          "ppl": 188.9,
+          "changedAt": "2026-09-10T15:41:18Z"
         }
       },
       "stale": false
@@ -3737,12 +3737,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "hvo": {
           "ppl": 209.9,
@@ -3813,8 +3813,8 @@
           "changedAt": "2026-09-09T06:48:40Z"
         },
         "diesel": {
-          "ppl": 186.9,
-          "changedAt": "2026-09-09T06:48:40Z"
+          "ppl": 188.9,
+          "changedAt": "2026-09-11T05:43:43Z"
         }
       },
       "stale": false
@@ -3949,16 +3949,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 169.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 174.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "petrol": {
-          "ppl": 158.6,
-          "changedAt": "2026-09-08T13:02:53Z"
+          "ppl": 162.6,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 179.6,
-          "changedAt": "2026-09-08T13:02:53Z"
+          "ppl": 184.6,
+          "changedAt": "2026-09-10T15:54:41Z"
         }
       },
       "stale": false
@@ -4051,20 +4051,20 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 167.9,
-          "changedAt": "2026-09-09T09:35:03Z"
+          "ppl": 169.9,
+          "changedAt": "2026-09-10T14:50:02Z"
         },
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-09T09:35:03Z"
+          "ppl": 163.9,
+          "changedAt": "2026-09-10T14:50:02Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-09T09:35:03Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T14:50:02Z"
         },
         "dieselPremium": {
-          "ppl": 189.9,
-          "changedAt": "2026-09-09T09:35:03Z"
+          "ppl": 190.9,
+          "changedAt": "2026-09-10T14:50:02Z"
         }
       },
       "stale": false
@@ -4199,12 +4199,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "hvo": {
           "ppl": 209.9,
@@ -5233,20 +5233,20 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 167.9,
-          "changedAt": "2026-09-09T09:26:33Z"
+          "ppl": 169.9,
+          "changedAt": "2026-09-10T15:02:40Z"
         },
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-09T09:26:33Z"
+          "ppl": 163.9,
+          "changedAt": "2026-09-10T15:02:40Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-09T09:26:33Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:02:40Z"
         },
         "dieselPremium": {
-          "ppl": 189.9,
-          "changedAt": "2026-09-09T09:26:33Z"
+          "ppl": 190.9,
+          "changedAt": "2026-09-10T15:02:40Z"
         }
       },
       "stale": false
@@ -5445,16 +5445,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 165.9,
-          "changedAt": "2026-09-10T06:47:31Z"
+          "ppl": 168.9,
+          "changedAt": "2026-09-10T22:00:42Z"
         },
         "petrol": {
-          "ppl": 153.9,
-          "changedAt": "2026-09-10T06:47:31Z"
+          "ppl": 156.9,
+          "changedAt": "2026-09-10T22:00:42Z"
         },
         "diesel": {
-          "ppl": 171.9,
-          "changedAt": "2026-09-10T06:47:31Z"
+          "ppl": 174.9,
+          "changedAt": "2026-09-10T22:00:42Z"
         }
       },
       "stale": false
@@ -5483,12 +5483,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 159.9,
-          "changedAt": "2026-09-04T16:48:38Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         }
       },
       "stale": false
@@ -5657,12 +5657,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-09T11:47:09Z"
+          "ppl": 165.9,
+          "changedAt": "2026-09-10T15:05:29Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-09T11:47:09Z"
+          "ppl": 185.9,
+          "changedAt": "2026-09-10T15:06:09Z"
         }
       },
       "stale": false
@@ -6145,16 +6145,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 169.9,
-          "changedAt": "2026-09-04T16:48:38Z"
+          "ppl": 174.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         }
       },
       "stale": false
@@ -6247,8 +6247,8 @@
       },
       "prices": {
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         }
       },
       "stale": false
@@ -6763,12 +6763,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 158.7,
-          "changedAt": "2026-09-09T15:30:17Z"
+          "ppl": 160.7,
+          "changedAt": "2026-09-10T14:42:09Z"
         },
         "diesel": {
-          "ppl": 179.7,
-          "changedAt": "2026-09-09T15:30:17Z"
+          "ppl": 181.7,
+          "changedAt": "2026-09-10T14:42:09Z"
         }
       },
       "stale": false
@@ -6975,8 +6975,8 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-09T09:25:08Z"
+          "ppl": 163.9,
+          "changedAt": "2026-09-10T14:56:11Z"
         },
         "diesel": {
           "ppl": 183.9,
@@ -7051,20 +7051,20 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 175.9,
-          "changedAt": "2026-09-09T09:33:10Z"
+          "ppl": 170.9,
+          "changedAt": "2026-09-10T15:13:44Z"
         },
         "petrol": {
-          "ppl": 163.9,
-          "changedAt": "2026-09-09T09:33:10Z"
+          "ppl": 164.9,
+          "changedAt": "2026-09-10T15:13:44Z"
         },
         "diesel": {
-          "ppl": 184.9,
-          "changedAt": "2026-09-09T09:33:10Z"
+          "ppl": 185.9,
+          "changedAt": "2026-09-10T15:13:44Z"
         },
         "dieselPremium": {
-          "ppl": 190.9,
-          "changedAt": "2026-09-09T09:33:10Z"
+          "ppl": 191.9,
+          "changedAt": "2026-09-10T15:13:44Z"
         }
       },
       "stale": false
@@ -7093,16 +7093,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 175.9,
-          "changedAt": "2026-09-09T09:42:08Z"
+          "ppl": 177.9,
+          "changedAt": "2026-09-10T15:13:10Z"
         },
         "petrol": {
-          "ppl": 163.9,
-          "changedAt": "2026-09-09T09:42:08Z"
+          "ppl": 165.9,
+          "changedAt": "2026-09-10T15:13:10Z"
         },
         "diesel": {
-          "ppl": 184.9,
-          "changedAt": "2026-09-09T09:42:08Z"
+          "ppl": 185.9,
+          "changedAt": "2026-09-10T15:13:10Z"
         }
       },
       "stale": false
@@ -7146,6 +7146,40 @@
       "stale": false
     },
     {
+      "id": "553a122910b6e924b28ebf18d61d019e52c4fc22cad92b80710367c24eba4b57",
+      "name": "Centra Cloughey",
+      "rawName": "Centra Cloughey",
+      "brand": "Emo",
+      "postcode": "BT22 1HR",
+      "town": "Newtownards",
+      "address": "1-3 The Square, Cloughey",
+      "lat": 54.428013,
+      "lon": -5.481419,
+      "supermarket": true,
+      "motorway": false,
+      "temporaryClosure": false,
+      "hours": {
+        "monday": "07:00-21:00",
+        "tuesday": "07:00-21:00",
+        "wednesday": "07:00-21:00",
+        "thursday": "07:00-21:00",
+        "friday": "07:00-21:00",
+        "saturday": "07:00-21:00",
+        "sunday": "07:00-21:00"
+      },
+      "prices": {
+        "petrol": {
+          "ppl": 164.9,
+          "changedAt": "2026-09-10T15:41:15Z"
+        },
+        "diesel": {
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:41:15Z"
+        }
+      },
+      "stale": false
+    },
+    {
       "id": "554adc719c2dac787e163148e8c2d8884b4d27d7c5f82e1749a016165e8b50d7",
       "name": "Maxol Rosepark",
       "rawName": "Maxol Rosepark",
@@ -7169,12 +7203,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-09T10:02:01Z"
+          "ppl": 164.9,
+          "changedAt": "2026-09-10T15:36:19Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-09T10:02:01Z"
+          "ppl": 186.9,
+          "changedAt": "2026-09-10T15:36:19Z"
         }
       },
       "stale": false
@@ -7797,12 +7831,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 159.9,
-          "changedAt": "2026-09-04T16:48:38Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 182.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         }
       },
       "stale": false
@@ -8513,20 +8547,20 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 175.9,
-          "changedAt": "2026-09-09T09:54:33Z"
+          "ppl": 177.9,
+          "changedAt": "2026-09-10T15:19:56Z"
         },
         "petrol": {
-          "ppl": 163.9,
-          "changedAt": "2026-09-09T09:54:33Z"
+          "ppl": 165.9,
+          "changedAt": "2026-09-10T15:19:56Z"
         },
         "diesel": {
-          "ppl": 184.9,
-          "changedAt": "2026-09-09T09:54:33Z"
+          "ppl": 186.9,
+          "changedAt": "2026-09-10T15:19:56Z"
         },
         "dieselPremium": {
-          "ppl": 190.9,
-          "changedAt": "2026-09-09T09:54:33Z"
+          "ppl": 192.9,
+          "changedAt": "2026-09-10T15:19:56Z"
         }
       },
       "stale": false
@@ -9267,16 +9301,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 166.9,
-          "changedAt": "2026-09-09T21:59:32Z"
+          "ppl": 169.9,
+          "changedAt": "2026-09-10T22:02:45Z"
         },
         "petrol": {
-          "ppl": 154.9,
-          "changedAt": "2026-09-09T21:59:32Z"
+          "ppl": 157.9,
+          "changedAt": "2026-09-10T22:02:45Z"
         },
         "diesel": {
-          "ppl": 171.9,
-          "changedAt": "2026-09-09T21:59:32Z"
+          "ppl": 174.9,
+          "changedAt": "2026-09-10T22:02:45Z"
         }
       },
       "stale": false
@@ -9305,16 +9339,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 169.9,
-          "changedAt": "2026-09-04T16:48:38Z"
+          "ppl": 174.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "petrol": {
-          "ppl": 159.9,
-          "changedAt": "2026-09-04T16:48:38Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 182.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         }
       },
       "stale": false
@@ -9483,8 +9517,8 @@
       },
       "prices": {
         "diesel": {
-          "ppl": 179.9,
-          "changedAt": "2026-09-04T19:33:09Z"
+          "ppl": 185.9,
+          "changedAt": "2026-09-10T16:43:33Z"
         }
       },
       "stale": false
@@ -9673,8 +9707,8 @@
           "changedAt": "2026-09-08T13:37:03Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-08T13:37:03Z"
+          "ppl": 185.9,
+          "changedAt": "2026-09-10T17:25:34Z"
         }
       },
       "stale": false
@@ -9703,16 +9737,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 175.9,
-          "changedAt": "2026-09-09T09:45:00Z"
+          "ppl": 177.9,
+          "changedAt": "2026-09-10T15:16:03Z"
         },
         "petrol": {
-          "ppl": 163.9,
-          "changedAt": "2026-09-09T09:45:00Z"
+          "ppl": 165.9,
+          "changedAt": "2026-09-10T15:16:03Z"
         },
         "diesel": {
-          "ppl": 184.9,
-          "changedAt": "2026-09-09T09:45:00Z"
+          "ppl": 185.9,
+          "changedAt": "2026-09-10T15:16:03Z"
         }
       },
       "stale": false
@@ -10711,16 +10745,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 165.9,
-          "changedAt": "2026-09-08T22:35:17Z"
+          "ppl": 168.9,
+          "changedAt": "2026-09-10T22:34:38Z"
         },
         "petrol": {
-          "ppl": 153.9,
-          "changedAt": "2026-09-08T22:35:17Z"
+          "ppl": 156.9,
+          "changedAt": "2026-09-10T22:34:38Z"
         },
         "diesel": {
-          "ppl": 173.9,
-          "changedAt": "2026-09-09T22:34:37Z"
+          "ppl": 176.9,
+          "changedAt": "2026-09-10T22:34:38Z"
         }
       },
       "stale": false
@@ -11329,12 +11363,12 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 168.9,
-          "changedAt": "2026-09-09T09:57:51Z"
+          "ppl": 169.9,
+          "changedAt": "2026-09-10T15:23:01Z"
         },
         "petrol": {
-          "ppl": 162.9,
-          "changedAt": "2026-09-09T09:57:51Z"
+          "ppl": 163.9,
+          "changedAt": "2026-09-10T15:23:01Z"
         },
         "diesel": {
           "ppl": 184.9,
@@ -11405,16 +11439,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 169.9,
-          "changedAt": "2026-09-07T22:01:21Z"
+          "ppl": 172.9,
+          "changedAt": "2026-09-10T22:02:44Z"
         },
         "petrol": {
-          "ppl": 157.9,
-          "changedAt": "2026-09-07T22:01:21Z"
+          "ppl": 160.9,
+          "changedAt": "2026-09-10T22:02:44Z"
         },
         "diesel": {
-          "ppl": 179.9,
-          "changedAt": "2026-09-07T22:01:21Z"
+          "ppl": 182.9,
+          "changedAt": "2026-09-10T22:02:44Z"
         }
       },
       "stale": false
@@ -11443,12 +11477,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 155.7,
-          "changedAt": "2026-09-02T14:09:20Z"
+          "ppl": 157.7,
+          "changedAt": "2026-09-10T14:28:37Z"
         },
         "diesel": {
-          "ppl": 178.7,
-          "changedAt": "2026-09-08T15:09:56Z"
+          "ppl": 180.7,
+          "changedAt": "2026-09-10T14:28:37Z"
         }
       },
       "stale": false
@@ -11541,12 +11575,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 164.9,
-          "changedAt": "2026-09-09T10:06:40Z"
+          "ppl": 166.9,
+          "changedAt": "2026-09-10T14:55:31Z"
         },
         "diesel": {
-          "ppl": 184.9,
-          "changedAt": "2026-09-04T11:05:47Z"
+          "ppl": 186.9,
+          "changedAt": "2026-09-10T14:40:28Z"
         }
       },
       "stale": false
@@ -11719,16 +11753,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 169.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 174.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "petrol": {
-          "ppl": 160.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 161.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 182.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 183.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         }
       },
       "stale": false
@@ -11973,16 +12007,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 166.9,
-          "changedAt": "2026-09-08T21:58:24Z"
+          "ppl": 169.9,
+          "changedAt": "2026-09-10T21:57:38Z"
         },
         "petrol": {
-          "ppl": 154.9,
-          "changedAt": "2026-09-08T21:58:24Z"
+          "ppl": 157.9,
+          "changedAt": "2026-09-10T21:57:38Z"
         },
         "diesel": {
-          "ppl": 170.9,
-          "changedAt": "2026-09-08T21:58:24Z"
+          "ppl": 173.9,
+          "changedAt": "2026-09-10T21:57:38Z"
         }
       },
       "stale": false
@@ -12121,8 +12155,8 @@
           "changedAt": "2026-09-09T15:13:07Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-08-24T16:07:11Z"
+          "ppl": 189.9,
+          "changedAt": "2026-09-10T15:50:39Z"
         }
       },
       "stale": false
@@ -12151,12 +12185,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-09T09:35:03Z"
+          "ppl": 163.9,
+          "changedAt": "2026-09-10T15:05:02Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-09T09:35:03Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:05:02Z"
         }
       },
       "stale": false
@@ -12393,12 +12427,12 @@
           "changedAt": "2026-09-09T10:06:12Z"
         },
         "diesel": {
-          "ppl": 184.9,
-          "changedAt": "2026-09-09T10:06:12Z"
+          "ppl": 185.9,
+          "changedAt": "2026-09-10T15:37:11Z"
         },
         "dieselPremium": {
-          "ppl": 190.9,
-          "changedAt": "2026-09-09T10:06:12Z"
+          "ppl": 191.9,
+          "changedAt": "2026-09-10T15:37:11Z"
         },
         "hvo": {
           "ppl": 246.9,
@@ -12503,12 +12537,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 159.9,
-          "changedAt": "2026-09-04T16:48:38Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 182.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "hvo": {
           "ppl": 209.9,
@@ -12575,12 +12609,12 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 172.9,
-          "changedAt": "2026-09-09T08:32:28Z"
+          "ppl": 174.9,
+          "changedAt": "2026-09-10T14:32:25Z"
         },
         "diesel": {
-          "ppl": 187.9,
-          "changedAt": "2026-09-09T08:32:28Z"
+          "ppl": 189.9,
+          "changedAt": "2026-09-10T14:32:25Z"
         }
       },
       "stale": false
@@ -13639,16 +13673,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 166.9,
-          "changedAt": "2026-09-08T22:00:26Z"
+          "ppl": 169.9,
+          "changedAt": "2026-09-10T22:08:53Z"
         },
         "petrol": {
-          "ppl": 154.9,
-          "changedAt": "2026-09-08T22:00:26Z"
+          "ppl": 157.9,
+          "changedAt": "2026-09-10T22:08:53Z"
         },
         "diesel": {
-          "ppl": 174.9,
-          "changedAt": "2026-09-09T21:56:29Z"
+          "ppl": 177.9,
+          "changedAt": "2026-09-10T22:08:53Z"
         }
       },
       "stale": false
@@ -14311,12 +14345,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-09T09:50:03Z"
+          "ppl": 163.9,
+          "changedAt": "2026-09-10T15:21:02Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-09T09:50:03Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:21:02Z"
         }
       },
       "stale": false
@@ -14459,12 +14493,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 158.9,
-          "changedAt": "2026-09-09T15:26:36Z"
+          "ppl": 160.9,
+          "changedAt": "2026-09-10T14:38:16Z"
         },
         "diesel": {
-          "ppl": 182.9,
-          "changedAt": "2026-09-09T15:26:36Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T14:38:16Z"
         }
       },
       "stale": false
@@ -14721,12 +14755,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 152.7,
-          "changedAt": "2026-09-02T14:08:36Z"
+          "ppl": 154.7,
+          "changedAt": "2026-09-10T14:27:05Z"
         },
         "diesel": {
-          "ppl": 178.7,
-          "changedAt": "2026-09-08T15:08:13Z"
+          "ppl": 180.7,
+          "changedAt": "2026-09-10T14:27:05Z"
         }
       },
       "stale": false
@@ -14873,16 +14907,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 170.9,
-          "changedAt": "2026-09-08T11:42:23Z"
+          "ppl": 171.9,
+          "changedAt": "2026-09-10T15:30:26Z"
         },
         "petrol": {
-          "ppl": 163.9,
-          "changedAt": "2026-09-08T11:42:23Z"
+          "ppl": 164.9,
+          "changedAt": "2026-09-10T15:30:26Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-08T11:42:23Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:30:26Z"
         }
       },
       "stale": false
@@ -15025,12 +15059,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "hvo": {
           "ppl": 209.9,
@@ -15131,12 +15165,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 159.7,
-          "changedAt": "2026-09-09T15:28:16Z"
+          "ppl": 161.7,
+          "changedAt": "2026-09-10T14:40:12Z"
         },
         "diesel": {
-          "ppl": 183.7,
-          "changedAt": "2026-09-09T15:28:16Z"
+          "ppl": 185.7,
+          "changedAt": "2026-09-10T14:40:12Z"
         }
       },
       "stale": false
@@ -15441,16 +15475,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 169.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 174.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "petrol": {
-          "ppl": 160.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "hvo": {
           "ppl": 209.9,
@@ -15619,12 +15653,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 152.7,
-          "changedAt": "2026-09-02T13:04:53Z"
+          "ppl": 154.7,
+          "changedAt": "2026-09-10T14:42:26Z"
         },
         "diesel": {
-          "ppl": 173.7,
-          "changedAt": "2026-09-08T14:04:06Z"
+          "ppl": 175.7,
+          "changedAt": "2026-09-10T14:42:26Z"
         }
       },
       "stale": false
@@ -16103,16 +16137,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 169.9,
-          "changedAt": "2026-09-09T09:42:18Z"
+          "ppl": 171.9,
+          "changedAt": "2026-09-10T15:13:20Z"
         },
         "petrol": {
-          "ppl": 163.9,
-          "changedAt": "2026-09-09T09:42:18Z"
+          "ppl": 165.9,
+          "changedAt": "2026-09-10T15:13:20Z"
         },
         "diesel": {
-          "ppl": 184.9,
-          "changedAt": "2026-09-09T09:42:18Z"
+          "ppl": 185.9,
+          "changedAt": "2026-09-10T15:13:20Z"
         },
         "dieselPremium": {
           "ppl": 190.9,
@@ -16145,12 +16179,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 157.7,
-          "changedAt": "2026-09-09T15:30:53Z"
+          "ppl": 159.7,
+          "changedAt": "2026-09-10T14:41:52Z"
         },
         "diesel": {
-          "ppl": 179.7,
-          "changedAt": "2026-09-08T14:04:11Z"
+          "ppl": 181.7,
+          "changedAt": "2026-09-10T14:41:52Z"
         }
       },
       "stale": false
@@ -16259,16 +16293,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 169.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 174.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         }
       },
       "stale": false
@@ -16327,12 +16361,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-09T09:35:04Z"
+          "ppl": 163.9,
+          "changedAt": "2026-09-10T14:50:03Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-09T09:35:04Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T14:50:03Z"
         }
       },
       "stale": false
@@ -16941,8 +16975,8 @@
           "changedAt": "2026-09-09T12:18:32Z"
         },
         "dieselPremium": {
-          "ppl": 186.9,
-          "changedAt": "2026-09-03T16:14:24Z"
+          "ppl": 193.9,
+          "changedAt": "2026-09-10T16:43:48Z"
         }
       },
       "stale": false
@@ -16975,12 +17009,12 @@
           "changedAt": "2026-09-04T10:30:15Z"
         },
         "petrol": {
-          "ppl": 158.6,
-          "changedAt": "2026-09-08T13:50:36Z"
+          "ppl": 162.6,
+          "changedAt": "2026-09-10T16:00:09Z"
         },
         "diesel": {
-          "ppl": 179.6,
-          "changedAt": "2026-09-08T13:50:36Z"
+          "ppl": 184.6,
+          "changedAt": "2026-09-10T16:00:09Z"
         }
       },
       "stale": false
@@ -17085,12 +17119,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-09T09:35:03Z"
+          "ppl": 163.9,
+          "changedAt": "2026-09-10T15:05:03Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-09T09:35:03Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:05:03Z"
         },
         "hvo": {
           "ppl": 246.9,
@@ -17373,11 +17407,11 @@
       },
       "prices": {
         "diesel": {
-          "ppl": 184.9,
-          "changedAt": "2026-08-26T18:44:59Z"
+          "ppl": 191.9,
+          "changedAt": "2026-09-10T18:29:56Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "d5ea7d33bc899a9d4a9e70356fba522872baae059f52634e701a715b2c13048c",
@@ -17857,15 +17891,15 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 155.9,
-          "changedAt": "2026-08-26T12:50:28Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:58:17Z"
         },
         "diesel": {
           "ppl": 183.9,
           "changedAt": "2026-08-26T12:50:28Z"
         }
       },
-      "stale": true
+      "stale": false
     },
     {
       "id": "dcd36bf26d0732b7f791797860286adf2c31cb303953f9d42b13bf8e59bded9e",
@@ -18175,16 +18209,16 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 159.9,
-          "changedAt": "2026-09-08T13:28:42Z"
+          "ppl": 161.9,
+          "changedAt": "2026-09-10T14:59:41Z"
         },
         "diesel": {
-          "ppl": 179.9,
-          "changedAt": "2026-09-08T13:28:42Z"
+          "ppl": 183.9,
+          "changedAt": "2026-09-10T14:59:41Z"
         },
         "dieselPremium": {
-          "ppl": 186.9,
-          "changedAt": "2026-09-08T13:28:42Z"
+          "ppl": 190.9,
+          "changedAt": "2026-09-10T14:59:41Z"
         }
       },
       "stale": false
@@ -18361,12 +18395,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 157.9,
-          "changedAt": "2026-09-09T15:28:02Z"
+          "ppl": 159.9,
+          "changedAt": "2026-09-10T14:39:21Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-08T14:01:39Z"
+          "ppl": 185.9,
+          "changedAt": "2026-09-10T14:39:21Z"
         }
       },
       "stale": false
@@ -18395,12 +18429,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "hvo": {
           "ppl": 209.9,
@@ -18615,8 +18649,8 @@
           "changedAt": "2026-09-04T17:10:20Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-04T17:10:20Z"
+          "ppl": 185.9,
+          "changedAt": "2026-09-10T16:16:52Z"
         }
       },
       "stale": false
@@ -18857,12 +18891,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 159.9,
-          "changedAt": "2026-09-04T16:48:38Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 182.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "hvo": {
           "ppl": 209.9,
@@ -19107,16 +19141,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 169.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 174.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "petrol": {
-          "ppl": 159.9,
-          "changedAt": "2026-09-04T16:48:38Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 182.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         }
       },
       "stale": false
@@ -19145,16 +19179,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 175.9,
-          "changedAt": "2026-09-09T09:35:03Z"
+          "ppl": 177.9,
+          "changedAt": "2026-09-10T15:06:00Z"
         },
         "petrol": {
-          "ppl": 163.9,
-          "changedAt": "2026-09-09T09:35:03Z"
+          "ppl": 165.9,
+          "changedAt": "2026-09-10T15:06:00Z"
         },
         "diesel": {
-          "ppl": 184.9,
-          "changedAt": "2026-09-09T09:35:03Z"
+          "ppl": 185.9,
+          "changedAt": "2026-09-10T15:06:00Z"
         }
       },
       "stale": false
@@ -19755,16 +19789,16 @@
       },
       "prices": {
         "petrolSuper": {
-          "ppl": 167.9,
-          "changedAt": "2026-09-09T09:45:15Z"
+          "ppl": 169.9,
+          "changedAt": "2026-09-10T15:16:20Z"
         },
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-09T09:45:15Z"
+          "ppl": 163.9,
+          "changedAt": "2026-09-10T15:16:20Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-09T09:45:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:16:20Z"
         },
         "dieselPremium": {
           "ppl": 189.9,
@@ -19797,8 +19831,8 @@
       },
       "prices": {
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-09T12:54:41Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "hvo": {
           "ppl": 209.9,
@@ -19911,12 +19945,12 @@
       },
       "prices": {
         "petrol": {
-          "ppl": 161.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 162.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         },
         "diesel": {
-          "ppl": 183.9,
-          "changedAt": "2026-09-08T16:12:15Z"
+          "ppl": 184.9,
+          "changedAt": "2026-09-10T15:54:41Z"
         }
       },
       "stale": false
